@@ -1,0 +1,83 @@
+project:
+  type: book
+  output-dir: ../_book
+
+book:
+  title: "Deezix SRD"
+  description: "A fast, fun, flexible OSR-style fantasy RPG system."
+  language: en
+  repo-url: https://github.com/BlarfinAround/deezix-srd
+  repo-actions: [edit, issue]
+  chapters:
+    - index.qmd
+
+    - part: "Characters"
+      chapters:
+        - core-rules/character/the-x-in-6-mechanic.md
+        - core-rules/character/character-creation.md
+        - core-rules/character/ability-scores.md
+        - core-rules/character/encumbrance.md
+        - core-rules/character/experience-and-advancement.md
+
+    - part: "Classes"
+      chapters:
+        - core-rules/character/classes/fighter.md
+        - core-rules/character/classes/cleric.md
+        - core-rules/character/classes/magic-user.md
+        - core-rules/character/classes/thief.md
+
+    - part: "Equipment & Services"
+      chapters:
+        - core-rules/character/equipment/starting-wealth.md
+        - core-rules/character/equipment/weapons-and-armor.md
+        - core-rules/character/equipment/adventuring-gear.md
+        - core-rules/character/equipment/mounts-and-transport.md
+        - core-rules/character/equipment/retainers-and-hirelings.md
+
+    - part: "Magic"
+      chapters:
+        - core-rules/magic/magic-overview.md
+        - core-rules/magic/arcane-magic.md
+        - core-rules/magic/divine-magic.md
+        - core-rules/magic/arcane-spells.md
+        - core-rules/magic/divine-spells.md
+        - core-rules/magic/magical-research.md
+
+    - part: "Adventuring"
+      chapters:
+        - core-rules/adventuring/hit-points-and-death.md
+        - core-rules/adventuring/saving-throws.md
+        - core-rules/adventuring/skills.md
+        - core-rules/adventuring/encounters.md
+        - core-rules/adventuring/dungeon-exploration.md
+        - core-rules/adventuring/wilderness-travel.md
+        - core-rules/adventuring/combat.md
+
+    - part: "Running the Game"
+      chapters:
+        - core-rules/referee/referees-role.md
+        - core-rules/referee/reactions-morale-loyalty.md
+        - core-rules/referee/creating-adventures.md
+
+    - part: "Monsters"
+      chapters:
+        - core-rules/referee/monsters/monster-statistics.md
+        - core-rules/referee/monsters/bestiary.md
+
+    - core-rules/referee/treasure.md
+
+    - part: "Designer Toolkit"
+      chapters:
+        - designer-toolkit/expanding-the-game.md
+        - designer-toolkit/designing-classes.md
+        - designer-toolkit/designing-spells.md
+        - designer-toolkit/designing-monsters.md
+        - designer-toolkit/species-and-kindreds.md
+
+    - acknowledgements.md
+    - license.md
+
+format:
+  html:
+    toc: true
+    number-sections: false

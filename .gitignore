@@ -1,0 +1,9 @@
+_book/
+.quarto/
+src/.quarto/
+**/*_files/
+.DS_Store
+.obsidian/
+.claude/
+src/**/*.html
+

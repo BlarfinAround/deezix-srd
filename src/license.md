@@ -1,0 +1,26 @@
+# License
+
+Deezix is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
+
+## Summary
+
+You may:
+
+- **Share** — copy and redistribute the material in any medium or format.
+- **Adapt** — remix, transform, and build upon the material for any purpose, including commercial.
+
+Under the following terms:
+
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+## Attribution
+
+When using or adapting Deezix, include the following attribution:
+
+> Based on the Deezix SRD by BlarfinAround, available at <https://github.com/BlarfinAround/deezix-srd>, used under CC BY 4.0.
+
+## Full License Text
+
+The full text of the Creative Commons Attribution 4.0 International License is available at <https://creativecommons.org/licenses/by/4.0/legalcode>.
+
+A human-readable summary is available at <https://creativecommons.org/licenses/by/4.0/>.

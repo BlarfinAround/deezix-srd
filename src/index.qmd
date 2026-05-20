@@ -1,0 +1,44 @@
+# Introduction
+
+Deezix is a compact old-school-inspired tabletop roleplaying game system. It is intended to keep games moving, focusing on the fun and thematic, while remaining compatible with existing OSR content and easy to extend. 
+
+## A Complete Game
+
+The Core Rules in the SRD contain everything needed to start playing through level 5:
+
+- Four classes — Fighter, Cleric, Magic-User, Thief.
+- Arcane and divine magic.
+- Combat, dungeon exploration, and wilderness travel procedures.
+- A low-level bestiary.
+- Full referee guidance.
+
+## A Foundation for Designers
+
+Deezix is built to be modified. The [Designer Toolkit](designer-toolkit/designing-classes.md) is a companion guide for homebrewers and game designers who want to:
+
+- **Extend the core game** with new classes, spells, species, and monsters.
+- **Build new games** or campaign settings on the Deezix chassis.
+
+## What Makes it Different
+
+Summary of notable changes for those familiar with OSR-style games:
+
+**General**
+
+- **X-in-6 mechanic**: governs most non-combat rolls — skills, saving throws, ability checks.
+- **General Skills**: four skills (Break, Languages, Search/Listen, Tumble) cover most adventuring activities.
+- **Item-based encumbrance**: a simple slot-counted system.
+- **Ascending AC and Attack Bonus**: AC counts up; Progressive class-based attack bonuses.
+
+**Characters & Classes**
+
+- **No ability score requirements**: No XP bonuses or class minimums. Each class applies its primary ability modifier to a specific General Skill (e.g., Fighter applies STR to Break).
+- **Clerics**: Simplified Turn Undead skill, a spell at level 1, magical research at level 3.
+- **Fighters**: Cleave ability for fighting multiple weaker enemies.
+- **Magic-Users**: Arcane Lore skill for detecting magic, reading magic, and identifying items. Magical research at level 3. No limit on known spells, but all must be obtained via research.
+- **Thieves**: Skill Points distributable to any General Skill or thief class skill (Climb, Tinker, Stealth, Sleight of Hand).
+
+**Combat**
+
+- **Fewer attack modifiers**: Fewer situational bonuses and penalties.
+- **Simplified maneuvers**: Melee movement rules are simplified. Other edge-case combat maneuvers are not present.

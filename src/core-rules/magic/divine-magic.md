@@ -1,0 +1,31 @@
+# Divine Magic
+
+Divine magic is the [Cleric](../character/classes/cleric.md)'s tradition: granted through faith and prayer. The Cleric knows the **entire divine spell list** for spell levels they have unlocked — no spellbook required.
+
+## The Holy Symbol
+
+The Cleric channels divine magic through a **holy symbol** worn or carried in plain view. Without it, the Cleric cannot prepare or cast divine spells, and cannot Turn Undead.
+
+- **Starting holy symbol**: Provided free at character creation.
+- **Lost or destroyed**: A replacement requires a visit to a temple of the Cleric's faith and at least 25 gp in materials, or 1 week of meditation and improvisation.
+- **Desecration**: A symbol used in service of acts against the Cleric's faith loses its divine connection until reconsecrated (referee's discretion).
+
+## Preparing Spells
+
+After 8 hours of rest and prayer, the Cleric prepares a number of spells equal to their available **spell slots** (see [Cleric Advancement Table](../character/classes/cleric.md)). They may choose any spell from the [Divine Spell List](divine-spells.md) at a level they have access to. The same spell may be prepared into multiple slots.
+
+## Casting a Divine Spell
+
+See [Casting a Spell](magic-overview.md#casting-in-combat).
+
+A prepared spell, once cast, cannot be cast again until the next morning's prayer.
+
+## Reversed Spells
+
+Some divine spells (e.g., *Cure Light Wounds*/*Cause Light Wounds*) have a reversed form noted in their entry. The Cleric prepares the spell once and **chooses at casting time** whether to invoke its normal or reversed form. Casting harmful reversed forms may carry alignment or faith consequences (referee's discretion).
+
+## Scroll Use
+
+Divine scrolls are written prayers consecrated to a specific spell. A Cleric reading a divine scroll may cast the spell directly without expending a slot; the scroll is consumed on casting. Spells cast from a scroll always use the **lowest possible caster level** for that spell. Clerics do not need to learn or pre-read a divine scroll, but the scroll must match a faith compatible with the Cleric's own (referee's discretion).
+
+See [Treasure](../referee/treasure.md) for scrolls.
