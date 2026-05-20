@@ -6,8 +6,7 @@ book:
   title: "Deezix SRD"
   description: "A fast, fun, flexible OSR-style fantasy RPG system."
   language: en
-  repo-url: https://github.com/BlarfinAround/deezix-srd
-  repo-actions: [edit, issue]
+  repo-url: https://github.com/BlarfinAround/deezix-srd/src/
   chapters:
     - index.qmd
 
