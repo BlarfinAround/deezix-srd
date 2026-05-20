@@ -1,6 +1,7 @@
 # Ability Scores
 
 Ability scores determine the innate physical and mental qualities of a character.
+
 ## The Six Abilities
 
 ### Strength (STR)
