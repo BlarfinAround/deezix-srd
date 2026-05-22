@@ -56,7 +56,7 @@ Split equally among all PCs and retainers who participated and survived. Retaine
 
 ## Advancement Tables
 
-Full per-level tables (XP required, HD, Attack Bonus, saves, and class features) appear in each class entry: [Fighter](classes/fighter.md) · [Cleric](classes/cleric.md) · [Magic-User](classes/magic-user.md) · [Thief](classes/thief.md).
+Full per-level tables (XP required, HD, Attack Bonus, saves, and class features) appear in each class entry.
 
 ## Leveling Up
 

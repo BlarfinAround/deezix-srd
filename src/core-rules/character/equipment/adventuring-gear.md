@@ -1,7 +1,5 @@
 # Adventuring Gear
 
-See [Encumbrance](../encumbrance.md) for item counts.
-
 ## Light Sources
 
 | Item               | Cost  | Notes                                   |
@@ -60,6 +58,4 @@ Moving without light: wandering monster checks become a 2-in-6 chance per turn, 
 | ***Shovel***             | 3 gp  | Digging                               |
 
 
-*Items in italic are bundleable.* ***Items in bold italic are oversized.*** See [Encumbrance](../encumbrance.md).
-
-See [Mounts and Transport](mounts-and-transport.md) and [Retainers and Hirelings](retainers-and-hirelings.md).
+*Items in italic are bundleable.* ***Items in bold italic are oversized.***

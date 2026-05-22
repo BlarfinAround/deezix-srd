@@ -63,4 +63,4 @@ Worn armor sets the character's base AC. The character's **DEX modifier** is app
 A shield is held in one hand and adds **+1 AC**. A shield cannot be used with two-handed weapons.
 
 
-*Items in italic are bundleable.* ***Items in bold italic are oversized.*** Worn armor counts as 0 items. See [Encumbrance](../encumbrance.md).
+*Items in italic are bundleable.* ***Items in bold italic are oversized.*** Worn armor counts as 0 items.

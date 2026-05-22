@@ -12,11 +12,7 @@ The Cleric channels divine magic through a **holy symbol** worn or carried in pl
 
 ## Preparing Spells
 
-After 8 hours of rest and prayer, the Cleric prepares a number of spells equal to their available **spell slots** (see [Cleric Advancement Table](../character/classes/cleric.md)). They may choose any spell from the [Divine Spell List](divine-spells.md) at a level they have access to. The same spell may be prepared into multiple slots.
-
-## Casting a Divine Spell
-
-See [Casting a Spell](magic-overview.md#casting-in-combat).
+After 8 hours of rest and prayer, the Cleric prepares a number of spells equal to their available **spell slots**. They may choose any spell from the [Divine Spell List](divine-spells.md) at a level they have access to. The same spell may be prepared into multiple slots.
 
 A prepared spell, once cast, cannot be cast again until the next morning's prayer.
 
@@ -27,5 +23,3 @@ Some divine spells (e.g., *Cure Light Wounds*/*Cause Light Wounds*) have a rever
 ## Scroll Use
 
 Divine scrolls are written prayers consecrated to a specific spell. A Cleric reading a divine scroll may cast the spell directly without expending a slot; the scroll is consumed on casting. Spells cast from a scroll always use the **lowest possible caster level** for that spell. Clerics do not need to learn or pre-read a divine scroll, but the scroll must match a faith compatible with the Cleric's own (referee's discretion).
-
-See [Treasure](../referee/treasure.md) for scrolls.

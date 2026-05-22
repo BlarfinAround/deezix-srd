@@ -32,7 +32,7 @@ A character who takes a **full rest** (at least 8 hours of sleep with no strenuo
 :::
 
 ### Magical Healing
-Spells such as *Cure Light Wounds* restore HP immediately. Magical healing cannot raise a character above their maximum HP. See [Divine Spells](../magic/divine-spells.md).
+Spells such as *Cure Light Wounds* restore HP immediately. Magical healing cannot raise a character above their maximum HP.
 
 ## Monsters and Death
 

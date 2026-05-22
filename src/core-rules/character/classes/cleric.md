@@ -58,12 +58,10 @@ Undead with HD greater than **Cleric Level + 1** are unaffected by **Turn Undead
 
 The Cleric **prepares** divine spells each morning. They know every spell on the [Divine Spell List](../../magic/divine-spells.md) for the spell levels they have unlocked, and choose which to prepare from that full list. The same spell may be prepared into multiple slots. Once cast, a prepared spell is expended until the next morning's preparation.
 
-See [Divine Magic](../../magic/divine-magic.md).
-
 ## Class Abilities
 
 ### Magical Research (Level 3+)
-At 3rd level, the Cleric may create divine scrolls and holy water. See [Magical Research](../../magic/magical-research.md).
+At 3rd level, the Cleric may create divine scrolls and holy water.
 
 ## Starting Equipment (Suggested)
 

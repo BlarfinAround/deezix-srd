@@ -54,18 +54,18 @@ Detecting magic, reading magic, or identifying with **Arcane Lore** takes 1 turn
 
 The Magic-User keeps a **spellbook** of every spell they know and **prepares** spells from it each morning equal to their available slots (see Advancement Table). Each prepared spell may be cast once before being expended.
 
-Magic-Users begin play with a spellbook containing **two 1st-level spells**. New spells are added by conducting research. See [Arcane Magic](../../magic/arcane-magic.md).
+Magic-Users begin play with a spellbook containing **two 1st-level spells**. New spells are added by conducting research.
 
 ## Class Abilities
 
 ### Scroll Use
 
 ::: {.callout-important title="Scroll Use"}
-Magic-Users may cast any arcane scroll directly without expending a slot; the scroll is consumed on casting. The scroll's spell must first be read (via *Read Magic* or **Arcane Lore**). See [Arcane Magic](../../magic/arcane-magic.md#scroll-use).
+Magic-Users may cast any arcane scroll directly without expending a slot; the scroll is consumed on casting. The scroll's spell must first be read (via *Read Magic* or **Arcane Lore**).
 :::
 
 ### Magical Research (Level 3+)
-At 3rd level, the Magic-User may create arcane scrolls, brew potions, and research new spells. See [Magical Research](../../magic/magical-research.md).
+At 3rd level, the Magic-User may create arcane scrolls, brew potions, and research new spells.
 
 ## Starting Equipment (Suggested)
 

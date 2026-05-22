@@ -3,8 +3,6 @@
 
 Roll **3d6 six times in order**: STR, INT, WIS, DEX, CON, CHA. Record each result.
 
-Consult the [Ability Scores](ability-scores.md) page for modifiers and what each score affects.
-
 ## Step 2 — Choose a Class
 
 Choose one of the four core classes:
@@ -22,7 +20,7 @@ Copy the class's 1st-level values from the class page: Attack Bonus, Saving Thro
 
 ## Step 4 — Roll Hit Points
 
-Roll the class's Hit Die (see [Hit Points and Death](../adventuring/hit-points-and-death.md)) and add the character's CON modifier. This is the starting HP.
+Roll the class's Hit Die and add the character's CON modifier. This is the starting HP.
 
 **Minimum 1 HP**, regardless of modifiers.
 
@@ -35,7 +33,7 @@ All characters begin with four **General Skills** at a **1-in-6 chance**:
 - [Search/Listen](../adventuring/skills.md#search-listen)
 - [Tumble](../adventuring/skills.md#tumble)
 
-Apply the class's key ability modifier to its designated General Skill (see [Skills](../adventuring/skills.md)):
+Apply the class's key ability modifier to its designated General Skill:
 
 - **Fighter**: STR → Break
 - **Cleric**: WIS → Search/Listen
@@ -46,13 +44,13 @@ See the class entry for any class skills.
 
 ## Step 6 — Buy Equipment
 
-Roll **3d6 × 10 gp** for starting gold. See the class entry for recommended purchases, allowed weapons/armor, and the [Equipment](equipment/starting-wealth.md) section for the full item lists.
+Roll **3d6 × 10 gp** for starting gold. See the class entry for recommended purchases and allowed weapons/armor.
 
 Magic-Users begin play with a free spellbook containing **two 1st-level spells** of the player's choice.
 
 ## Step 7 — Determine Armor Class
 
-Worn armor sets the character's **AC** (10 if unarmored, up to 16 in plate). Add the DEX modifier, and +1 for a shield. See [Armor Class](equipment/weapons-and-armor.md#armor-class) for the table.
+Worn armor sets the character's **AC** (10 if unarmored, up to 16 in plate). Add the DEX modifier, and +1 for a shield.
 
 ## Step 8 — Final Details
 

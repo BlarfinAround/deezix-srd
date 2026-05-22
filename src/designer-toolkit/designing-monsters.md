@@ -15,7 +15,7 @@
 HD determines:
 
 - Total HP (roll HD × d8)
-- Attack bonus (see [Monster Statistics — AB](../core-rules/referee/monsters/monster-statistics.md#ab--attack-bonus))
+- Attack bonus
 - Save level (Save as Fighter at HD level)
 - Challenge level for the party
 
@@ -127,7 +127,7 @@ Base XP by HD, plus a bonus per notable special ability. Mark each notable speci
 
 **AC** 12, **HD** 3** (14hp), **AB** +2, **Att** 1 × bite (1d6 + Blood Drain), **MV** 60' (20') (Swim 120' (40')), **SV** D3 W2 P3 B2 S1, **ML** 8, **AL** Neutral, **XP** 65, **NA** 1d4 (1d4), **TT** —
 
-- **Blood Drain**: Once attached (on a successful bite), the leech deals **1d6 automatic damage per round** without needing attack rolls. Detaching requires a [Break](../core-rules/adventuring/skills.md#break) skill roll (or 2 rounds of effort).
+- **Blood Drain**: Once attached (on a successful bite), the leech deals **1d6 automatic damage per round** without needing attack rolls. Detaching requires a Break skill roll (or 2 rounds of effort).
 - **Piercing Immunity**: Arrows, spears, and similar piercing weapons deal half damage.
 - **Aquatic**: Moves at full speed in water; reduced to 20' on land.
 :::

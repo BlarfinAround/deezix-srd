@@ -16,7 +16,7 @@ Reasoning, memory, and learning.
 
 - **Languages**: Characters know their native tongue plus one additional language per point of INT bonus.
 - **Literacy**: Characters with INT 5 or lower are illiterate and cannot roll [Languages](../adventuring/skills.md#languages).
-- **Magic-Users** apply INT bonus to [Languages](../adventuring/skills.md#languages).
+- **Magic-Users** apply INT bonus to Languages.
 
 ### Wisdom (WIS)
 Perception, willpower, and divine attunement.
@@ -27,19 +27,19 @@ Perception, willpower, and divine attunement.
 Agility, reflexes, and hand-eye coordination.
 
 - **Ranged attack** modifier applies to all missile weapons.
-- **Armor Class** modifier adjusts AC (see [Armor Class](equipment/weapons-and-armor.md#armor-class)).
+- **Armor Class** modifier adjusts AC.
 - **Thieves** apply DEX bonus to [Tumble](../adventuring/skills.md#tumble).
 
 ### Constitution (CON)
 Toughness, endurance, and health.
 
-- **Hit points**: CON modifier applies to each Hit Die roll (see [Hit Points and Death](../adventuring/hit-points-and-death.md)).
+- **Hit points**: CON modifier applies to each Hit Die roll.
 
 ### Charisma (CHA)
 Personality, leadership, and social presence.
 
-- **Reaction rolls**: CHA modifier applies to NPC first impressions (see [Reactions, Morale, and Loyalty](../referee/reactions-morale-loyalty.md)).
-- **Retainers**: CHA determines maximum retainers and their base loyalty (see [Retainers and Hirelings](equipment/retainers-and-hirelings.md)).
+- **Reaction rolls**: CHA modifier applies to NPC first impressions.
+- **Retainers**: CHA determines maximum retainers and their base loyalty.
 
 ## Ability Score Modifiers
 

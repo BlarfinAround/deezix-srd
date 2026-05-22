@@ -77,7 +77,7 @@ When a check indicates an encounter, follow the [Encounter Sequence](encounters.
 Characters must sleep approximately 8 hours per day or accumulate fatigue (**−1** to all rolls per missed full rest).
 
 ::: {.callout-important title="Camp & Watch"}
-Making camp takes **2 turns**. Establish a watch rotation: **3 watches per 8-hour rest**, with an encounter check each watch. If an encounter occurs, sleeping characters are surprised unless the watchperson succeeds on a [Search/Listen](skills.md#search-listen) roll.
+Making camp takes **2 turns**. Establish a watch rotation: **3 watches per 8-hour rest**, with an encounter check each watch. If an encounter occurs, sleeping characters are surprised unless the watchperson succeeds on a Search/Listen roll.
 :::
 
 ## Overland Navigation Aids

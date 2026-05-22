@@ -30,7 +30,7 @@ On their turn, a character may:
 
 - **Move** up to their combat movement rate.
 - **Attack** with a melee or ranged weapon (one attack per round).
-- **Cast a spell** declared at the start of the round (see [Casting in Combat](../magic/magic-overview.md#casting-in-combat)).
+- **Cast a spell** declared at the start of the round.
 - **Disengage** from melee, declared at the start of the round.
 - **Use an item** (drink a potion, light a torch, read a scroll).
 - **Perform another action** at the referee's discretion.
@@ -96,11 +96,9 @@ On a hit, the attacker rolls the weapon's **damage die** and subtracts the resul
 
 **STR modifier** applies to melee damage. Ranged weapons add no ability modifier to damage.
 
-See [Armor Class](../character/equipment/weapons-and-armor.md#armor-class) for AC rules.
-
 ## Ending Combat
 
-Combat ends when one side is dead, incapacitated, fled, or surrendered. Morale determines when monsters break; see [Morale and Loyalty](../referee/reactions-morale-loyalty.md). Player characters are never forced to flee by morale.
+Combat ends when one side is dead, incapacitated, fled, or surrendered. Morale determines when monsters break. Player characters are never forced to flee by morale.
 
 ## Special Combat Situations
 
@@ -112,6 +110,3 @@ Declare **intent to subdue** before attacking. Damage is rolled normally; if the
 
 Creatures that are not humanoid and roughly human scale may require special means for subdual (referee's discretion).
 
-### Morale
-
-See [Morale and Loyalty](../referee/reactions-morale-loyalty.md).

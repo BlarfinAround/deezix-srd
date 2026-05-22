@@ -37,7 +37,7 @@ If the party kills the goblins in room 4, the ogre they were paying tribute to i
 ## Running Encounters
 
 1. Establish the scene.
-2. Roll 2d6 for monster reaction if outcome isn't predetermined (see [Reactions, Morale, and Loyalty](reactions-morale-loyalty.md)).
+2. Roll 2d6 for monster reaction if outcome isn't predetermined.
 3. Give players a moment to act before the first blow if monsters are Neutral or better.
 4. Check morale at appropriate moments. Let creatures flee.
 

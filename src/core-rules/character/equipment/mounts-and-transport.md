@@ -11,7 +11,7 @@ Mounts, vehicles, and boats let the party move faster, carry more, and travel by
 | Draft horse | 40 gp | 40 | — | 30 miles/day | Work animal; needed for carts and wagons |
 | Mule | 30 gp | 30 | 60'/turn | 20 miles/day | Sturdy; can navigate narrow paths; slower than horses |
 
-**Wilderness Speed** reflects sustained daily travel. See [Wilderness Travel](../../adventuring/wilderness-travel.md) for rules on getting lost, terrain penalties, and survival.
+**Wilderness Speed** reflects sustained daily travel.
 
 ## Vehicles
 

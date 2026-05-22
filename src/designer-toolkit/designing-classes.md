@@ -59,7 +59,7 @@ Choose one:
 
 ### Key Ability
 
-The ability score the class is built around — **STR / INT / WIS / DEX**. Determines the General Skill that receives the ability modifier (see [Skills](../core-rules/adventuring/skills.md#class-skill-bonuses)).
+The ability score the class is built around — **STR / INT / WIS / DEX**. Determines the General Skill that receives the ability modifier.
 
 
 ## Magic
@@ -169,7 +169,7 @@ If a class lands clearly above the Magic-User in total package (e.g., full magic
 - **Skill Profile**: Advanced (class skill: **Bardic Lore** — identify magical items, recall a magical creature's properties, notable people and places.)
 - **Key Ability**: INT
 - **Spellcasting**: Innate, at level 5 unlocks a fixed repertoire of *Charm Person*, *Ventriloquism*, and *Sleep* and 3 MP
-- **Signature Ability**: *Silver Tongue* — when the Bard leads an interaction with a creature whose disposition is uncertain, add +1 to the [reaction roll](../core-rules/adventuring/encounters.md#reactions).
+- **Signature Ability**: *Silver Tongue* — when the Bard leads an interaction with a creature whose disposition is uncertain, add +1 to the reaction roll.
 - **Saves**: Strong Paralysis, Spells; Weak Death
 
 **XP**: L2 1,400 / L3 2,800

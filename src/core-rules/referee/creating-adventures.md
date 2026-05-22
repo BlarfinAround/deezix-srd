@@ -51,15 +51,13 @@ Wandering monsters should reflect the dungeon's inhabitants.
 
 ## Placing Treasure
 
-Treasure is the primary way players earn XP (see [Gold = XP](../character/experience-and-advancement.md)). If a monster is in the room, use the treasure type indicated in its description. Otherwise, roll based on the dungeon level:
+Treasure is the primary way players earn XP. If a monster is in the room, use the treasure type indicated in its description. Otherwise, roll based on the dungeon level:
 
 **Level 1**: 1d6 × 100sp; 50%: 1d6 × 10gp; 5%: 1d6 gems; 2%: 1d6 pieces of jewelry; 2%: 1 magic item.
 
 **Level 2–3**: 1d12 × 100sp; 50%: 1d6 × 100gp; 10%: 1d6 gems; 5%: 1d6 pieces of jewelry; 8%: 1 magic item.
 
 **Level 4–5**: 1d6 × 1,000sp; 1d6 × 200gp; 20%: 1d6 gems; 10%: 1d6 pieces of jewelry; 10%: 1 magic item.
-
-See [Treasure](treasure.md).
 
 ## Keys and Maps
 

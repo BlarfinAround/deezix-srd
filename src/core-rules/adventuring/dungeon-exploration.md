@@ -50,7 +50,7 @@ Doors in dungeons are often stuck, locked, or swollen from damp. Failed attempts
 - **Stuck**: [Break](skills.md#break) roll. Retry takes a full turn of effort.
 - **Locked**: requires the key, a *Cast Knock* spell, or a [Tinker](../character/classes/thief.md#class-skills) roll (Thief).
 - **Secret**: found by a successful [Search/Listen](skills.md#search-listen) roll while actively searching, or by direct investigation (e.g. removing a painting from a wall).
-- **Barricaded / portcullised**: combined STR effort or mechanical solution (winch, crowbar). Multiple characters may roll [Break](skills.md#break) and aggregate successes.
+- **Barricaded / portcullised**: combined STR effort or mechanical solution (winch, crowbar). Multiple characters may roll Break and aggregate successes.
 
 Failure on Stuck or Locked triggers an immediate wandering monster check from the noise.
 :::
@@ -58,7 +58,7 @@ Failure on Stuck or Locked triggers an immediate wandering monster check from th
 ## Traps
 
 ::: {.callout-important title="Traps"}
-- **Finding**: active [Search/Listen](skills.md#search-listen) (1 turn, successful roll).
+- **Finding**: active Search/Listen (1 turn, successful roll).
 - **Triggering**: moving through an un-searched trapped area carries a **2-in-6 chance per character** of setting it off. Adjust per trap.
-- **Disarming**: once found, [Tinker](../character/classes/thief.md#class-skills) roll. Failure may trigger the trap.
+- **Disarming**: once found, Tinker roll. Failure may trigger the trap.
 :::

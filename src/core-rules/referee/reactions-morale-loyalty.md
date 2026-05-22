@@ -1,6 +1,6 @@
 # Morale and Loyalty
 
-These procedures cover when monsters break and flee, and how retainers stay loyal to the party. For the encounter-time **reaction roll**, see [Reactions](../adventuring/encounters.md#reactions) in the Encounters chapter.
+These procedures cover when monsters break and flee, and how retainers stay loyal to the party.
 
 ## Morale
 
@@ -27,7 +27,7 @@ A group that breaks will **flee**, **surrender**, or **cower**, depending on the
 
 ## Loyalty
 
-Retainers have a **Loyalty** score that functions as their personal morale — checked when they face serious danger or are given distasteful orders. Base Loyalty is determined by their employer's CHA (see [Retainers and Hirelings](../character/equipment/retainers-and-hirelings.md)) and adjusts over play.
+Retainers have a **Loyalty** score that functions as their personal morale — checked when they face serious danger or are given distasteful orders. Base Loyalty is determined by their employer's CHA and adjusts over play.
 
 ### Loyalty Adjustments
 

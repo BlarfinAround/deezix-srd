@@ -50,5 +50,3 @@ Three patterns cover most spells:
 ## Reversed Spells
 
 Some spells — most often divine spells of opposition (*Cure Light Wounds*/*Cause Light Wounds*, *Bless*/*Blight*) — have a reversed form. Keep both forms in a single entry; write the reversal into the description. The two forms should be true inversions: mechanics (range, duration, save type) match between them, with only the direction of the effect flipped.
-
-See [Arcane Magic](../core-rules/magic/arcane-magic.md) and [Divine Magic](../core-rules/magic/divine-magic.md) for how each class prepares and casts reversed forms.

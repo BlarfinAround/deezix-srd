@@ -87,7 +87,7 @@ In equipment tables, item names carry their encumbrance category through formatt
 - ***Bold italic*** — oversized
 
 Each equipment table is followed by a single-line key reminding readers of the convention based on the items in the chart.
-`*Items in italic are bundleable.* ***Items in bold italic are oversized.*** See [Encumbrance](../core-rules/character/encumbrance.md).`
+`*Items in italic are bundleable.* ***Items in bold italic are oversized.***`
 
 ### Stat lines
 
@@ -103,8 +103,6 @@ Traits and special abilities follow as a bulleted list:
 
 - **Poison**: On a bite hit, the target makes a **Death** save or suffers the listed effect.
 ```
-
-See [Monster Statistics](../core-rules/referee/monsters/monster-statistics.md) for the full field reference.
 
 ### Spell entries
 
@@ -162,11 +160,19 @@ Optional callout attributes that may be useful: `collapse="true"` for long Examp
 
 ### Links
 
+**Mechanics.**
+
 - Standard Markdown: `[Link text](path-to-page.md)`.
 - Relative paths only. Both `.md` and `.qmd` extensions resolve to the rendered page.
 - Section anchors are Quarto's auto-generated kebab-case from heading text: `[Break](../adventuring/skills.md#break)`.
 - Add an explicit `{#anchor}` to a heading only when the auto-generated slug would be wrong (e.g., `### Search/Listen {#search-listen}`, where the slash drops). Don't otherwise tag headings with anchors.
-- Don't link the same target twice in one paragraph.
+
+**When to link.**
+
+- **Link the first mention in a file** of a defined term-of-art (a skill, mechanic, spell, class feature, or treasure type defined elsewhere) where understanding the sentence requires recognizing the term: `apply STR modifier to [Break](...)`.
+- **Link procedural directives** that tell the reader to execute a specific procedure now: `follow the [Encounter Sequence](...)`, `roll [Search/Listen](...)`.
+- **Don't use "see X" parentheticals or trailing "See [X]." pointers.** Chapters are reachable from the table of contents; navigational pointers are noise.
+- **Don't link the same target twice in one file.** Subsequent mentions use plain text.
 
 ### YAML frontmatter
 
@@ -245,3 +251,4 @@ Cut every sentence that does not add a fact, modifier, or example.
 - [ ] Example callout titles prefixed `Example: …`.
 - [ ] No body `---` rules outside of YAML frontmatter blocks.
 - [ ] Links relative; section anchors are auto-generated kebab-case from heading text (explicit `{#anchor}` only when the slug would otherwise be wrong).
+- [ ] Cross-references: inline link on first mention of a defined term-of-art or for a procedural directive; no "see X" parentheticals or trailing "See [X]." pointers; same target not linked twice in one file.

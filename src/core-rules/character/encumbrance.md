@@ -40,5 +40,3 @@ In equipment tables, *italic item names* mark bundleable items and ***bold-itali
 | Draft horse      | 40 items      |
 | Cart (1 horse)   | 80 items      |
 | Wagon (2 horses) | 200 items     |
-
-See [Mounts and Transport](equipment/mounts-and-transport.md) for details and costs.

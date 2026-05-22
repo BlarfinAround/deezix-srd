@@ -60,7 +60,7 @@ Levels 4–6 provide the following benchmark effects:
 | 5th | Devastating; permanent effects; powerful conjuration | Cloudkill, Teleport, Animate Dead |
 | 6th | Legendary; reality-bending | Disintegrate, Geas, Stone to Flesh |
 
-Design guidelines from [Designing Spells](designing-spells.md) scale to higher levels. Higher-level spells should feel qualitatively different — not just "more damage" but "new categories of problem-solving."
+Design guidelines scale to higher levels. Higher-level spells should feel qualitatively different — not just "more damage" but "new categories of problem-solving."
 
 ## High-Level Campaign Activities
 

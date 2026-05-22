@@ -1,6 +1,6 @@
 # Encounters
 
-When the party meets creatures whose presence was not anticipated — a wandering monster, a road patrol, a band of refugees — the **encounter procedure** determines how the meeting begins and how it resolves. Encounters are triggered by [dungeon](dungeon-exploration.md) or [wilderness](wilderness-travel.md) checks, or scripted by the referee.
+When the party meets creatures whose presence was not anticipated — a wandering monster, a road patrol, a band of refugees — the **encounter procedure** determines how the meeting begins and how it resolves. Encounters are triggered by dungeon or wilderness checks, or scripted by the referee.
 
 ## Encounter Sequence
 
