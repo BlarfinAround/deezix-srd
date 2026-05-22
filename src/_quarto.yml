@@ -84,3 +84,9 @@ format:
   html:
     toc: true
     number-sections: false
+    theme:
+      - journal
+      - custom.scss
+    fontsize: 0.95rem
+    grid:
+      body-width: "900px"

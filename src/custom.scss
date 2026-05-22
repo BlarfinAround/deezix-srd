@@ -1,0 +1,38 @@
+/*-- scss:defaults --*/
+
+$paragraph-margin-bottom: 1.25rem;
+$headings-margin-bottom:  0.85rem;
+
+$table-striped-bg:        rgba(0, 0, 0, 0.025);
+
+
+/*-- scss:rules --*/
+
+// Keep all text inside callouts at the document body font-size
+.callout,
+.callout .callout-body-container,
+.callout .callout-body-container > *,
+.callout .callout-body,
+.callout .callout-content,
+.callout .callout-content > * {
+  font-size: 1rem;
+}
+
+// A touch more vertical breathing room between blocks
+main h2 { margin-top: 2.25rem; }
+main h3 { margin-top: 1.5rem; }
+
+main p,
+main ul,
+main ol,
+main pre,
+main blockquote,
+main .callout {
+  margin-bottom: 1.25rem;
+}
+
+main .table {
+  margin-bottom: 2rem;
+  @extend .table-borderless;
+  @extend .table-striped;
+}
