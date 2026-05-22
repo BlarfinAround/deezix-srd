@@ -19,6 +19,7 @@ The gp value of recovered treasure:
 | ------------------ | ----------------------------- |
 | 1 cp               | 1/100 gp                      |
 | 1 sp               | 1/10 gp                       |
+| 1 ep               | 1/2 gp                        |
 | 1 gp               | 1 gp                          |
 | 1 pp               | 5 gp                          |
 | Gems, jewelry, art | Appraised gp value            |

@@ -73,6 +73,11 @@ book:
         - designer-toolkit/designing-monsters.md
         - designer-toolkit/species-and-kindreds.md
 
+    - part: "Appendix"
+      chapters:
+        - appendix/referee-reference.md
+        - appendix/character-sheet.md
+
     - acknowledgements.md
     - license.md
 

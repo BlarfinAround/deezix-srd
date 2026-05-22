@@ -17,7 +17,7 @@ On clear terrain with road or trail:
 Assumes 8 hours of travel.
 
 ::: {.callout-important title="Forced March"}
-Traveling more than 8 hours in a day imposes **−2 to all rolls** (exhaustion) until the party takes a full rest.
+Traveling more than 8 hours in a day imposes **−1 to all rolls** (exhaustion) until the party takes a full rest.
 :::
 
 ## Terrain Modifiers
@@ -60,7 +60,7 @@ Characters must eat and drink to function. Without adequate rations:
 - **No water**: Lose 1d4 HP per day. Dangerous in arid environments.
 
 ::: {.callout-important title="Foraging"}
-[Search/Listen](skills.md#search-listen) roll, once per day. Terrain modifier: forest or wetland **+0**, plains **−1**, mountains or desert **−2**. On success in plentiful terrain, the forager finds enough food and water for the whole party; in poor terrain, enough for one character.
+Once per day, the party makes a single [Search/Listen](skills.md#search-listen) roll at the highest Search/Listen chance in the party. On success, the foragers find food and water enough for **1d6 characters** for one day.
 :::
 
 ## Wilderness Encounter Checks

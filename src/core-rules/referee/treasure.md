@@ -6,6 +6,7 @@
 |------|-------|
 | Copper piece (cp) | 1/100 gp |
 | Silver piece (sp) | 1/10 gp |
+| Electrum piece (ep) | 1/2 gp |
 | Gold piece (gp) | 1 gp (= 1 XP) |
 | Platinum piece (pp) | 5 gp |
 

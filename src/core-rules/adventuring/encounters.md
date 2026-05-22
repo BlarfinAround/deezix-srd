@@ -79,4 +79,4 @@ A fleeing side may drop items to delay pursuers. Intelligent pursuers have a **3
 
 ### Exhaustion
 
-Sustained running has a cost. After **30 rounds** of dungeon pursuit or **a full day** of wilderness flight, all participants take **−2** to attack rolls, damage, and AC until they rest for **3 turns** (dungeon) or a **full night** (wilderness). Mapping and tracking are impossible while running.
+Sustained running has a cost. After **30 rounds** of dungeon pursuit or **a full day** of wilderness flight, all participants take **−1 to all rolls** until they rest for **3 turns** (dungeon) or a **full night** (wilderness). Mapping and tracking are impossible while running.

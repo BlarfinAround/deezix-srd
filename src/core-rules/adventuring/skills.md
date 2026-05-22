@@ -21,7 +21,13 @@ Speaking, reading, or understanding a language outside the character's known ton
 ### Search/Listen {#search-listen}
 Finding hidden things and detecting sounds: secret doors, concealed traps, approaching monsters, overheard conversations.
 
-- Roll when actively examining an area (takes 1 turn) or listening at a surface or distance.
+Roll Search/Listen to:
+
+- **Find secret doors** while actively searching a wall, panel, or piece of furniture (1 turn).
+- **Find traps** by examining a suspect area (1 turn).
+- **Listen** at a door, surface, or distance for voices, footsteps, or other sounds.
+- **Notice an approaching encounter** while on watch in a camp.
+- **Forage** for food and water in the wilderness (see [Foraging](wilderness-travel.md#foraging)).
 
 ### Tumble
 Negating fall damage and disengaging from melee.

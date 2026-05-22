@@ -55,6 +55,7 @@ Moving without light: wandering monster checks become a 2-in-6 chance per turn, 
 | Mirror (small, steel)    | 5 gp  | Checking corners; deterring basilisks |
 | Wolfsbane (bunch)        | 1 gp  | Wards against lycanthropes            |
 | Garlic (bunch)           | 5 sp  | Wards against vampires and undead     |
+| Holy water (vial)        | 25 gp | 1d8 damage to undead; available only at temples |
 | Manacles                 | 15 gp | Restraining prisoners                 |
 | ***Shovel***             | 3 gp  | Digging                               |
 

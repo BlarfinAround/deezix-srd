@@ -1,12 +1,12 @@
 # Encumbrance
 
-Characters can carry up to **10 items** without penalty. Count carried items to determine movement.
+Characters can carry up to **10 items + STR modifier** without penalty. Count carried items to determine movement.
 
-| Condition  | Items Carried | Effect                     |
-| ---------- | ------------- | -------------------------- |
-| Normal     | 1–10          | Full movement              |
-| Encumbered | 11–15         | Halved movement            |
-| Overloaded | 16+           | Cannot move or cast spells |
+| Condition  | Items Carried          | Effect                     |
+| ---------- | ---------------------- | -------------------------- |
+| Normal     | 1 to (10 + STR mod)    | Full movement              |
+| Encumbered | up to (15 + STR mod)   | Halved movement            |
+| Overloaded | (16 + STR mod) or more | Cannot move or cast spells |
 
 ## What Counts as an Item
 

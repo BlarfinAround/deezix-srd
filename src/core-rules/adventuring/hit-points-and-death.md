@@ -20,7 +20,7 @@ A 1st-level Fighter with CON 15 (+1) rolls a d8 and gets 4. Adding +1 gives 5 HP
 ## Death
 
 ::: {.callout-important title="Death"}
-A character at **0 HP** is dead.
+A character at **0 HP** is dead, unless the attack was declared as a [subdual](combat.md#subduing).
 :::
 
 ## Healing
