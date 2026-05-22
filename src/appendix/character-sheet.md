@@ -1,6 +1,6 @@
 # Character Sheet
 
-A fillable layout matching the character creation steps. Copy or transcribe.
+Example character sheet layout
 
 ## Identity
 
@@ -92,23 +92,4 @@ Carried items (count toward encumbrance):
 Items carried: ____ / (10 + STR mod = ____)
 
 Coins:   cp ____   sp ____   ep ____   gp ____   pp ____
-```
-
-## Retainers and Hirelings
-
-```
-Max retainers (by CHA): ____   Base loyalty: ____
-
-  Name: ______________________   Role: ____________   Loyalty: ____
-  Name: ______________________   Role: ____________   Loyalty: ____
-  Name: ______________________   Role: ____________   Loyalty: ____
-```
-
-## Notes
-
-```
-_______________________________________________________________________
-_______________________________________________________________________
-_______________________________________________________________________
-_______________________________________________________________________
 ```

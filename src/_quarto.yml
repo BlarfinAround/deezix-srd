@@ -6,7 +6,9 @@ book:
   title: "Deezix SRD"
   description: "A fast, fun, flexible OSR-style fantasy RPG system."
   language: en
-  repo-url: https://github.com/BlarfinAround/deezix-srd/src/
+  repo-url: https://github.com/BlarfinAround/deezix-srd
+  repo-branch: main
+  repo-subdir: src
   chapters:
     - index.qmd
 
@@ -73,10 +75,7 @@ book:
         - designer-toolkit/designing-monsters.md
         - designer-toolkit/species-and-kindreds.md
 
-    - part: "Appendix"
-      chapters:
-        - appendix/referee-reference.md
-        - appendix/character-sheet.md
+    - appendix/character-sheet.md
 
     - acknowledgements.md
     - license.md
