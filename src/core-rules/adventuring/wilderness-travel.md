@@ -22,19 +22,16 @@ Traveling more than 8 hours in a day imposes **−1 to all rolls** (exhaustion) 
 
 ## Terrain Modifiers
 
-| Terrain | Speed Modifier |
-|---------|--------------|
-| Road or clear trail | ×1 (no penalty) |
-| Plains, open farmland | ×¾ |
-| Forest, light | ×¾ |
-| Forest, dense | ×½ |
-| Hills | ×¾ |
-| Mountains | ×½ |
-| Swamp or marsh | ×¼ |
-| Desert | ×¾ |
-| River crossing (ford) | ×½ for that crossing |
+| Terrain                        | Speed Modifier |
+| ------------------------------ | -------------- |
+| Road                           | ×1½            |
+| Clear, city, trail, grasslands | ×1             |
+| Forest, hills, desert, broken  | ×⅔             |
+| Mountains, jungle, swamp       | ×½             |
 
 Round down to nearest mile.
+
+The referee may apply movement penalties or bonuses based on weather conditions.
 
 ## Getting Lost
 
@@ -50,7 +47,7 @@ At the end of each day of off-road travel, the referee rolls **1d6** secretly.
 A local guide negates the lost check entirely.
 :::
 
-**When lost**: The party travels in the wrong direction. They may realize they are lost with a Search/Listen roll (1 turn); otherwise they notice when an expected landmark doesn't appear.
+**When lost**: The party unknowingly travels in an incorrect direction, discovering their error after a full day of travel or when an expected landmark is missing.
 
 ## Foraging
 
@@ -92,12 +89,3 @@ Making camp takes **2 turns**. Establish a watch rotation: **3 watches per 8-hou
 | Local guide | Ignore lost checks entirely; may know shortcuts |
 | Landmark visible | Negate one lost check |
 
-## Weather
-
-| Condition        | Travel Effect                                             |
-| ---------------- | --------------------------------------------------------- |
-| Light rain       | −¼ speed; −1 to Search/Listen                             |
-| Heavy rain/storm | −½ speed; no fire; sight limited to 30'                   |
-| Fog              | Speed ×¾; +1 to chance of getting lost                    |
-| Extreme heat     | **Death** save each hour or gain Exhaustion (−1 to rolls)     |
-| Snow / blizzard  | Speed ×¼; **Death** save per day or lose 1d4 HP from exposure |

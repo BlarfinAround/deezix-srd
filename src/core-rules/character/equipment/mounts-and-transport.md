@@ -10,8 +10,6 @@ Mounts, vehicles, and boats let the party move faster, carry more, and travel by
 | Warhorse | 250 gp | 20 | — | 40 miles/day | Combat-trained; carries rider in full plate |
 | Draft horse | 40 gp | 40 | — | 30 miles/day | Work animal; needed for carts and wagons |
 | Mule | 30 gp | 30 | 60'/turn | 20 miles/day | Sturdy; can navigate narrow paths; slower than horses |
-| Donkey | 10 gp | 20 | 60'/turn | 20 miles/day | Cheap; hardy; slower and lower capacity than mule |
-| Dog (war) | 25 gp | — | 120'/turn | 30 miles/day | Combat-capable; loyal |
 
 **Wilderness Speed** reflects sustained daily travel. See [Wilderness Travel](../../adventuring/wilderness-travel.md) for rules on getting lost, terrain penalties, and survival.
 
@@ -33,8 +31,7 @@ Mounts and animals cost money to maintain:
 | Animal | Feed/Stabling (per day) |
 |--------|------------------------|
 | Horse (any) | 5 sp |
-| Mule / Donkey | 3 sp |
-| War dog | 1 sp |
+| Mule | 3 sp |
 
 Animals must be fed. In the wilderness, the referee may allow a foraging attempt to find grazing and water for up to 2 horses.
 
