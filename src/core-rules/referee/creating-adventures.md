@@ -1,5 +1,35 @@
 # Creating Adventures
 
+## Scenario
+
+Before mapping anything, decide what the adventure is *about*. Roll or pick:
+
+| d10 | Scenario |
+|-----|----------|
+| 1 | Banish an ancient evil that has recently stirred |
+| 2 | Clear ruins ahead of settlers or surveyors |
+| 3 | Make contact with a lost or hidden civilisation |
+| 4 | Escape from captivity (PCs start imprisoned) |
+| 5 | Explore unknown or transformed territory |
+| 6 | Perform a quest for a deity, ruler, or patron |
+| 7 | Rescue captives held by bandits, monsters, or a rival |
+| 8 | Scout an enemy outpost before war breaks |
+| 9 | Find or seal a magical doorway |
+| 10 | Reach a sacred site for an oracle, cure, or relic |
+
+## Setting
+
+Choose a basic site type to anchor the geography:
+
+| d6 | Setting |
+|----|---------|
+| 1 | Crypt or tomb |
+| 2 | Natural caverns |
+| 3 | Ruined settlement |
+| 4 | Abandoned mine |
+| 5 | Lost temple |
+| 6 | Forgotten tower or keep |
+
 ## Adventure Site Properties
 
 Establish before stocking:
@@ -20,6 +50,8 @@ For levels 1–5, keep adventure sites reasonably compact:
 | Medium | 20–30 rooms | 3–5 sessions |
 | Large | 40+ rooms | 5+ sessions |
 
+Larger sites often span multiple levels connected by stairs, shafts, or chutes. As a rule of thumb, monster HD roughly matches dungeon level — deeper levels are more dangerous and hold richer treasure.
+
 ## Stocking the Dungeon
 
 Use this quick stocking method for each room:
@@ -36,18 +68,16 @@ Use this quick stocking method for each room:
 
 ## Wandering Monster Tables
 
-Create a wandering monster table for each dungeon level. Roll d6:
+Create a wandering monster table for each dungeon level so encounters reflect the site's inhabitants. The example below shows how a table might scale across tiers:
 
-| d6 | Encounter |
-|----|----------|
-| 1 | 2d6 goblins (or level-appropriate faction) |
-| 2 | 1d6 giant rats |
-| 3 | 1d4 skeletons (patrol) |
-| 4 | 1d3 giant spiders |
-| 5 | 2d4 bandits (lost or rival party) |
-| 6 | Referee's choice (something interesting) |
-
-Wandering monsters should reflect the dungeon's inhabitants.
+| d6 | Level 1 | Level 2–3 | Level 4–5 |
+|----|---------|-----------|-----------|
+| 1 | 4d4 kobolds | 2d4 goblins | 1d6 gnolls |
+| 2 | 3d6 giant rats | 1d10 stirges | 1d6 hobgoblins |
+| 3 | 3d4 skeletons | 2d4 zombies | 1d6 ghouls |
+| 4 | 2d4 giant centipedes | 1d4 giant spiders | 1d8 shadows or 1d6 wights |
+| 5 | 1d8 bandits | 2d4 orcs | 1d6 ogres |
+| 6 | Referee's choice | Referee's choice | Referee's choice |
 
 ## Placing Treasure
 
