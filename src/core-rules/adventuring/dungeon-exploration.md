@@ -33,7 +33,7 @@ Simple combined tasks are allowed (move to a door, then listen at it), but a tho
 | Candle | 6 turns, 5' only |
 
 ::: {.callout-important title="Darkness"}
-Without a light source the party cannot see. **Movement halves**. Tasks that require sight automatically fail. Attacks are made at **−2**.
+Without a light source the party cannot see. **Movement halves**. Tasks that require sight automatically fail. Attacks and Search/Listen rolls are at **−2**. Wandering monster checks become a **2-in-6** per turn.
 :::
 
 Parties carrying a light in dark environments usually **cannot surprise** others.

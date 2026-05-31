@@ -19,14 +19,16 @@ HD determines:
 - Save level (Save as Fighter at HD level)
 - Challenge level for the party
 
-| HD  | Suitable For                                     | Example Monsters                 |
-| --- | ------------------------------------------------ | -------------------------------- |
-| ½   | Very weak; groups only                           | Giant Rat, Kobold, Centipede     |
-| 1   | Minor threat; appropriate for level 1 PCs        | Goblin, Skeleton, Bandit         |
-| 2   | Meaningful threat; challenging for level 1–2     | Orc, Wolf, Giant Spider          |
-| 3–4 | Significant threat; dangerous for level 2–3      | Ghoul, Gnoll, Ogre               |
-| 5–6 | Boss-level; challenging for level 3+             | Troll, Wight, powerful creatures |
-| 7+  | Beyond basic play; appropriate for future levels | Giants, Dragons, Demons          |
+| HD  | Suitable For                                | Example Monsters                   |
+| --- | ------------------------------------------- | ---------------------------------- |
+| ½   | Very weak; groups only                      | Giant Rat, Kobold, Giant Centipede |
+| 1   | Minor threat; appropriate for level 1 PCs   | Orc, Skeleton, Bandit              |
+| 2   | Meaningful threat; challenging for level 1–2 | Gnoll, Giant Spider, Wolf         |
+| 3–4 | Significant threat; dangerous for level 2–3 | Wight, Harpy, Ogre                 |
+| 5–6 | Boss-level; challenging for level 3+        | Troll                              |
+| 7+  | Beyond this bestiary; for higher-level play | Giants, dragons, and the like (not statted here) |
+
+These are starting points, not brackets — a creature a hit die off its row is still in range.
 
 ## Armor Class Guidelines
 
@@ -41,72 +43,49 @@ HD determines:
 
 ## Damage Calibration
 
-Match the monster's single-attack damage to its role:
+Match the monster's single-attack damage to its role. These are rough guides, not limits:
 
 | Role | Damage per Attack | Examples |
 |------|-----------------|---------|
-| Nuisance | 1d3–1d4 | Giant rat, kobold, stirge |
-| Standard threat | 1d6 | Orc, goblin, wolf |
-| Heavy hitter | 1d8–1d10 | Hobgoblin, wight, ogre |
-| Devastating | 2d6 or 1d10+ | Giant, dragon bite |
-
-For multi-attack monsters, reduce individual damage accordingly: 3 attacks at 1d4 is roughly equivalent to 1 attack at 1d8.
+| Nuisance | 1d3–1d4 | Giant Rat, Kobold, Stirge |
+| Standard threat | 1d6 | Orc, Goblin, Wolf |
+| Heavy hitter | 1d8–1d10 | Hobgoblin, Zombie, Ogre |
+| Devastating | 2d6 or 1d10+ | Beyond this bestiary (giants, dragons) |
 
 ## Special Abilities
 
-Use sparingly — one or two per monster is ideal.
+These are examples of special abilities and behavioral traits, each pointing to a bestiary monster that shows it in action.
 
-**Category 1: Save-or-suffer**
-Forces a saving throw on a hit. Classic examples:
+**Save-or-suffer**
+Forces a saving throw on a hit:
 
-- **Poison** (**Death** save — failure: effect)
-- **Paralysis** (**Paralysis** save — failure: immobilized)
-- **Petrification** (**Paralysis** save — failure: turned to stone)
-- **Level Drain** (no save — very powerful, use rarely)
+- **Poison** (**Death** save) — Giant Spider, Giant Centipede
+- **Paralysis** (**Paralysis** save) — Ghoul
+- **Charm** (**Spells** save) — Harpy's hypnotic song
+- **Ability or level drain** (usually no save) — Shadow (Strength), Wight (level)
 
-**Category 2: Area threats**
-Affects multiple targets or an area:
-
-- **Breath weapon** (**Breath** save for half)
-- **Gaze attack** (**Wands** save to avoid)
-- **Fear aura** (**Spells** save or flee)
-
-**Category 3: Resistances and immunities**
+**Resistances and immunities**
 Limits how the party can hurt the monster:
 
-- **Silver** required (only hurt by silver/magic)
-- **Magic** required (immune to mundane weapons)
-- **Fire/cold/acid immunity** (specific damage type)
+- **Silver or magic** to wound — Wight
+- **Magic only** to wound — Shadow
+- **Elemental immunity** — Gray Slime (fire and cold)
 
-**Category 4: Utility and behavior**
-Changes how the encounter plays out:
+**Persistent effects**
+Keep working after the first hit:
 
-- **Regeneration** (must use fire/acid; creates ongoing tension)
-- **Pack tactics** (bonus to attack with allies)
-- **Stealth** (enhanced surprise chance)
-- **Web/net** (immobilizes characters)
+- **Regeneration** (only fire or acid stops it) — Troll
+- **Ongoing drain** on a hit — Stirge (blood)
+
+**Behavioral traits**
+How the creature fights and acts. These shape an encounter but typically don't count as special abilities for XP — leave them out of the asterisk count.
+
+- **Enhanced surprise** — Shadow, Giant Spider, Gray Slime
+- **Pack courage** (morale bonus in numbers) — Wolf
 
 ## XP Calculation
 
-Base XP by HD, plus a bonus per notable special ability. Mark each notable special with an asterisk after the HD (e.g., HD 2\*\* = 2 specials).
-
-| HD          | Base XP | Bonus per Ability |
-|-------------|---------|-------------------|
-| Less than 1 |     5   |       1           |
-| 1           |    10   |       3           |
-| 1+          |    15   |       4           |
-| 2           |    20   |       5           |
-| 2+          |    25   |      10           |
-| 3           |    35   |      15           |
-| 3+          |    50   |      25           |
-| 4           |    75   |      50           |
-| 4+          |   125   |      75           |
-| 5           |   175   |     125           |
-| 5+          |   225   |     175           |
-| 6           |   275   |     225           |
-| 6+          |   350   |     300           |
-
-**Total XP = Base + (number of asterisks × Bonus per Ability)**.
+Mark each notable special with an asterisk after the HD (e.g., HD 2\*\* = 2 specials). Use the [Monster XP table](../core-rules/character/experience-and-advancement.md#monster-xp): **Total XP = Base + (asterisks × Bonus per Ability)**.
 
 ::: {.callout-note title="Example: Giant Leech"}
 **Concept**: A swamp creature — a massive leech that lurks in shallow water and drains blood.

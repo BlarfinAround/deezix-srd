@@ -15,15 +15,9 @@ Gold must be returned to a safe haven to count.
 
 The gp value of recovered treasure:
 
-| Treasure           | Gold Value                    |
-| ------------------ | ----------------------------- |
-| 1 cp               | 1/100 gp                      |
-| 1 sp               | 1/10 gp                       |
-| 1 ep               | 1/2 gp                        |
-| 1 gp               | 1 gp                          |
-| 1 pp               | 5 gp                          |
-| Gems, jewelry, art | Appraised gp value            |
-| Mundane equipment  | Half listed value (when sold) |
+- **Coins**: as listed in the [Coin Values](../referee/treasure.md#coin-values) table.
+- **Gems, jewelry, art**: appraised gp value.
+- **Mundane equipment**: half listed value (when sold).
 
 ### Monster XP
 Monsters grant a small amount of XP for being defeated (slain, driven off, or significantly overcome):

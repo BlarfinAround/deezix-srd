@@ -22,4 +22,4 @@ Some divine spells (e.g., *Cure Light Wounds*/*Cause Light Wounds*) have a rever
 
 ## Scroll Use
 
-Divine scrolls are written prayers consecrated to a specific spell. A Cleric reading a divine scroll may cast the spell directly without expending a slot; the scroll is consumed on casting. Spells cast from a scroll always use the **lowest possible caster level** for that spell. Clerics do not need to learn or pre-read a divine scroll, but the scroll must match a faith compatible with the Cleric's own (referee's discretion).
+A divine scroll is a written prayer. The Cleric need not pre-read it, but the scroll must match a faith compatible with the Cleric's own (referee's discretion). General [Scroll Use](magic-overview.md#scroll-use) rules apply.

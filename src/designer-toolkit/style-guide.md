@@ -129,27 +129,25 @@ For short lists of labeled values, use the middle dot `·` as separator:
 
 ### Callouts
 
-Mechanical content uses [Quarto callouts](https://quarto.org/docs/authoring/callouts.html). **Three** kinds are recognized in Deezix material — no others:
+Mechanical content uses [Quarto callouts](https://quarto.org/docs/authoring/callouts.html). **Three** kinds are recognized — no others:
 
 | Kind | Quarto type | Use for |
 |---|---|---|
-| **Rule** | `important` | A procedure the referee reads verbatim during play — a new mechanic being defined ("roll X, succeed if Y," "deal damage equal to…"). |
-| **Note** | `note` | A caveat, scope statement, or important consequence of an existing rule. Use to clarify edge cases, flag a player-relevant interaction, or highlight a non-obvious downstream effect. |
-| **Example** | `note` | A worked illustration of a rule in play. Same visual style as Note; disambiguated by the `title` attribute prefix (`title="Example: …"`). |
+| **Rule** | `important` | A procedure the referee reads verbatim during play. |
+| **Note** | `note` | A caveat, scope statement, or non-obvious consequence of an existing rule. |
+| **Example** | `note` | A worked illustration of a rule. Same visual style as Note; disambiguated by an `Example:` title prefix. |
 
 Source syntax (fenced div):
 
 ````text
 ::: {.callout-important title="Saving Throw"}
-Roll 1d6. If the result is **equal to or less than** the character's save value for that category, the throw succeeds. A **6 always fails**.
+Roll 1d6. If the result is **equal to or less than** the character's save value, the throw succeeds. A **6 always fails**.
 :::
 ````
 
-The callout class carries the visual style; the `title="…"` attribute holds the specific name. Don't repeat the kind in the title (write `title="X-in-6 Roll"`, not `title="Rule — X-in-6 Roll"`). For Example callouts, prefix the title: `title="Example: Cleric in Chain and Shield"`. Body content is regular Markdown — paragraphs, lists, tables, and inline formatting all work.
-
-One Rule per distinct mechanic. A page covering several sub-procedures (scroll creation, potion brewing) may use one Rule per sub-procedure. Notes and Examples may appear as often as the content warrants.
-
-Optional callout attributes that may be useful: `collapse="true"` for long Example blocks, `appearance="simple"` to drop the colored background on dense reference pages.
+- One **Rule** per distinct mechanic. A page covering several sub-procedures (scroll creation, potion brewing) may use one Rule per sub-procedure. Notes and Examples may appear as often as the content warrants.
+- Don't repeat the kind in the title (`title="X-in-6 Roll"`, not `title="Rule — X-in-6 Roll"`).
+- Optional attributes: `collapse="true"` for long Examples, `appearance="simple"` to drop the background on dense reference pages.
 
 ### Bold and italics
 
@@ -234,21 +232,3 @@ Commentary, rationale, and author notes belong in the [Designer Toolkit](designi
 ### Verbosity
 
 Cut every sentence that does not add a fact, modifier, or example.
-
-## Quick Reference Checklist
-
-- [ ] Single H1 matches the chapter title in `_quarto.yml`.
-- [ ] All saves named with the canonical category.
-- [ ] All chances written as X-in-6 (with `chance` attached in prose; bare in stat blocks and rated-value labels).
-- [ ] Damage as `1d6`, no spaces.
-- [ ] Modifiers signed, en-dash for negatives.
-- [ ] Class names capitalized; Magic-User hyphenated.
-- [ ] Spell names italicized.
-- [ ] Referee, never GM/DM.
-- [ ] Third person, no "you".
-- [ ] One **Rule** callout per distinct mechanic (a page covering multiple sub-procedures may use one per sub-procedure).
-- [ ] Callouts use Quarto fenced-div syntax (`::: {.callout-…}`), not mdbook-admonish fences.
-- [ ] Example callout titles prefixed `Example: …`.
-- [ ] No body `---` rules outside of YAML frontmatter blocks.
-- [ ] Links relative; section anchors are auto-generated kebab-case from heading text (explicit `{#anchor}` only when the slug would otherwise be wrong).
-- [ ] Cross-references: inline link on first mention of a defined term-of-art or for a procedural directive; no "see X" parentheticals or trailing "See [X]." pointers; same target not linked twice in one file.

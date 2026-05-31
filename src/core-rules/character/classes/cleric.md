@@ -56,7 +56,7 @@ Undead with HD greater than **Cleric Level + 1** are unaffected by **Turn Undead
 
 ## Casting
 
-The Cleric **prepares** divine spells each morning. They know every spell on the [Divine Spell List](../../magic/divine-spells.md) for the spell levels they have unlocked, and choose which to prepare from that full list. The same spell may be prepared into multiple slots. Once cast, a prepared spell is expended until the next morning's preparation.
+The Cleric follows the [Divine Magic](../../magic/divine-magic.md) tradition: prepare any spell from the full divine list at unlocked levels (see Advancement Table above for slots).
 
 ## Class Abilities
 

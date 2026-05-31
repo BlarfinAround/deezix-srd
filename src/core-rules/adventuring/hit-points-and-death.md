@@ -20,7 +20,7 @@ A 1st-level Fighter with CON 15 (+1) rolls a d8 and gets 4. Adding +1 gives 5 HP
 ## Death
 
 ::: {.callout-important title="Death"}
-A character at **0 HP** is dead, unless the attack was declared as a [subdual](combat.md#subduing).
+A creature at **0 HP** is dead, unless the attack was declared as a [subdual](combat.md#subduing).
 :::
 
 ## Healing
@@ -33,10 +33,6 @@ A character who takes a **full rest** (at least 8 hours of sleep with no strenuo
 
 ### Magical Healing
 Spells such as *Cure Light Wounds* restore HP immediately. Magical healing cannot raise a character above their maximum HP.
-
-## Monsters and Death
-
-Monsters die at **0 HP** unless [subdued](combat.md#subduing).
 
 ## Environmental Damage
 

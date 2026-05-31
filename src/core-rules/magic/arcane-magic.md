@@ -19,4 +19,4 @@ Some arcane spells (e.g., *Light*/*Darkness*) have a reversed form noted in thei
 
 ## Scroll Use
 
-A scroll's spell must first be read — by casting *Read Magic* or with a successful *Arcane Lore* roll — before it can be cast. Once read, a Magic-User may cast the spell directly from the scroll without expending a slot; the scroll is consumed on casting. Spells cast from a scroll always use the **lowest possible caster level** for that spell.
+Before an arcane scroll can be cast, the Magic-User must first read it — by casting *Read Magic* or with a successful **Arcane Lore** roll. General [Scroll Use](magic-overview.md#scroll-use) rules apply.

@@ -11,11 +11,6 @@
 | Flask of oil       | 2 sp  | 4 hours (24 turns); throwable (10'/20') |
 | Tinderbox          | 1 gp  | Needed to light torches/lanterns        |
 
-::: {.callout-note title="Running Out of Light"}
-Moving without light: wandering monster checks become a 2-in-6 chance per turn, and Search/Listen rolls are at −2.
-:::
-
-
 ## Exploration
 
 | Item                | Cost  | Notes                                  |

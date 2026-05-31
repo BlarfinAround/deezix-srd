@@ -59,17 +59,7 @@ Worn armor sets the character's **AC** (10 if unarmored, up to 16 in plate). Add
 - **XP**: Begin at 0.
 - **Alignment**: Law, Neutral, or Chaos.
 
-## Character Sheet Summary
-
-A completed character sheet lists:
-
-- Name, Class, Level, Alignment, XP
-- Ability scores and modifiers
-- HP, AC, AB
-- Saving throw values
-- Skills
-- Equipment
-- **For casters**: spell slots and prepared spells
+## Example Character
 
 ::: {.callout-note title="Example: Fighter"}
 Marta Ironfist · Lawful Fighter · Level 1 (0 XP)

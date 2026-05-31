@@ -19,3 +19,7 @@ Casting a prepared spell requires the caster to perform a series of physical ges
 ## Saving Throws Against Spells
 
 Each spell entry specifies the relevant save category (Wands / Paralysis / Breath / Spells).
+
+## Scroll Use
+
+A scroll holds one or more spells; each may be cast once. The reader does not expend a spell slot; a cast spell is consumed from the scroll, and a scroll with no remaining spells is destroyed. Scroll spells use the **lowest possible caster level** for that spell. [Arcane](arcane-magic.md#scroll-use) and [divine](divine-magic.md#scroll-use) scrolls each have additional requirements.

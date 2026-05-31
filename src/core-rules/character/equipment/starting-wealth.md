@@ -3,18 +3,8 @@
 New characters begin with a modest purse of **starting gold** to equip themselves before their first adventure.
 
 ::: {.callout-important title="Starting Gold"}
-Roll **3d6 × 10** to determine starting gold pieces (gp).
+Roll **3d6 × 10** to determine starting [gold pieces](../../referee/treasure.md#coin-values) (gp).
 :::
-
-## Currency
-
-| Coin | Abbreviation | Value |
-|------|-------------|-------|
-| Copper piece | cp | 1/100 gp |
-| Silver piece | sp | 1/10 gp |
-| Electrum piece | ep | 1/2 gp |
-| Gold piece | gp | 1 gp |
-| Platinum piece | pp | 5 gp |
 
 ## Cost of Living
 

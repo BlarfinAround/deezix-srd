@@ -31,12 +31,3 @@ Characters are assumed to have whatever mundane means of carrying gear is approp
 ### Notation
 
 In equipment tables, *italic item names* mark bundleable items and ***bold-italic names*** mark oversized items.
-
-## Pack Animals and Carts
-
-| Transport        | Item Capacity |
-| ---------------- | ------------- |
-| Pack mule        | 30 items      |
-| Draft horse      | 40 items      |
-| Cart (1 horse)   | 80 items      |
-| Wagon (2 horses) | 200 items     |
