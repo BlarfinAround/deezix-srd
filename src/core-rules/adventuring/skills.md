@@ -23,8 +23,8 @@ Finding hidden things and detecting sounds: secret doors, concealed traps, appro
 
 Roll Search/Listen to:
 
-- **Find secret doors** while actively searching a wall, panel, or piece of furniture (1 turn).
-- **Find traps** by examining a suspect area (1 turn).
+- **Find secret doors** while actively searching a wall, panel, or piece of furniture (10' x 10' area; 1 turn).
+- **Find traps** by examining a suspect area (10' x 10' area; 1 turn).
 - **Listen** at a door, surface, or distance for voices, footsteps, or other sounds.
 - **Notice an approaching encounter** while on watch in a camp.
 - **Forage** for food and water in the wilderness.

@@ -90,7 +90,7 @@ Create a wandering monster table for each dungeon level so encounters reflect th
 
 ## Placing Treasure
 
-Treasure is the primary way players earn XP. If a monster is in the room, use the treasure type indicated in its description. Otherwise, roll based on the dungeon level:
+Treasure is the primary way players earn XP. For monsters stocked in a lair room, use the lair treasure type from their stat block. Wandering monsters carry only individual treasure. For unguarded treasure in empty or trap rooms, roll based on dungeon level:
 
 **Level 1**: 1d6 × 100sp; 50%: 1d6 × 10gp; 5%: 1d6 gems; 2%: 1d6 pieces of jewelry; 2%: 1 magic item.
 
