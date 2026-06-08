@@ -30,7 +30,7 @@ Creates a sphere of light (15' radius, equivalent to a torch but less than dayli
 ### Magic Missile
 **Range**: 150' | **Duration**: 1 turn
 
-A bolt of force unerringly strikes any visible target within range for **1d6+1 damage** — no attack roll, no saving throw. The caster fires one missile, plus one more for every two caster levels beyond 1st (two at level 3, three at level 5, and so on), to a maximum of five. Multiple missiles may be directed at the same or different targets.
+A bolt of force unerringly strikes any visible target within range for **1d6+1 damage** — no attack roll, no saving throw. The caster fires one missile, plus one additional missile at caster levels 5, 10, and 15, to a maximum of four. Multiple missiles may be directed at the same or different targets.
 
 ### Protection from Evil
 **Range**: The caster | **Duration**: 6 turns
