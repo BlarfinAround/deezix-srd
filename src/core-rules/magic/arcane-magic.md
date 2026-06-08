@@ -6,8 +6,9 @@ Arcane magic is the [Magic-User](../character/classes/magic-user.md)'s tradition
 
 The spellbook contains every arcane spell the Magic-User knows. Without it, they cannot prepare new spells.
 
-- **Starting spellbook**: Two 1st-level spells. Provided free at character creation.
-- **Acquiring spells**: a Magic-User acquires new spells via [Spell Research](../magic/magical-research.md#spell-research).
+- **Starting spellbook**: Two 1st-level spells, chosen at character creation.
+- **Gaining spells**: On each level gained, add one new spell to the spellbook for every additional spell slot gained that level, chosen from any spell level the Magic-User can cast.
+- **Further spells**: Copy spells from captured spellbooks and scrolls, or invent them through [Spell Research](../magic/magical-research.md#spell-research).
 
 ## Preparing Spells
 

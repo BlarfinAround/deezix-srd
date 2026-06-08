@@ -14,7 +14,7 @@
 
 Monster stat blocks reference treasure by **letter code**. The format `TT X (Y)` in a stat block means **individuals carry X**, and **the lair holds Y**. Roll the indicated probability for each row; on a success, roll the listed quantity.
 
-Only the treasure types used by monsters in this SRD are listed. The codes follow B/X conventions for OSR compatibility.
+Only the treasure types used by monsters in this SRD are listed. The codes follow classic conventions for OSR compatibility.
 
 ### Lair Treasure (hoards)
 
@@ -24,7 +24,10 @@ Only the treasure types used by monsters in this SRD are listed. The codes follo
 | **B** | 50% 1d8 × 1,000 cp; 25% 1d6 × 1,000 sp; 25% 1d4 × 1,000 ep; 25% 1d3 × 1,000 gp | 25% 1d8 | 25% 1d4 | 10% any 1 (no weapons) |
 | **C** | 20% 1d12 × 1,000 cp; 30% 1d4 × 1,000 sp; 10% 1d4 × 1,000 ep | 25% 1d6 | 25% 1d3 | 10% any 2 |
 | **D** | 10% 1d8 × 1,000 cp; 15% 1d12 × 1,000 sp; 15% 1d8 × 1,000 gp | 30% 1d10 | 30% 1d6 | 15% any 2 + 1 potion |
+| **E** | 25% 1d8 × 1,000 cp; 25% 1d6 × 1,000 sp; 25% 1d4 × 1,000 ep; 25% 1d4 × 1,000 gp | 10% 1d10 | 10% 1d6 | 25% any 3 + 1 wand, staff, or rod |
 | **F** | 10% 2d10 × 1,000 sp; 20% 1d8 × 1,000 ep; 45% 1d12 × 1,000 gp; 30% 1d8 × 1,000 pp | 20% 3d10 | 10% 1d10 | 30% any 3 + 1 potion + 1 scroll |
+| **G** | 50% 10d4 × 1,000 gp; 50% 5d6 × 100 pp | 25% 5d4 | 25% 1d10 | 35% any 4 + 1 scroll |
+| **H** | 25% 5d8 × 1,000 cp; 50% 1d100 × 1,000 sp; 50% 10d4 × 1,000 ep; 50% 10d6 × 1,000 gp; 25% 5d4 × 1,000 pp | 50% 1d100 | 50% 10d4 | 25% any 4 + 1 potion + 1 scroll |
 
 ### Individual Treasure (carried)
 
@@ -52,7 +55,7 @@ Gems and jewelry provide dense, portable wealth. The referee sets value based on
 
 ## Magic Items
 
-Magic items are rare. At basic play (levels 1–5), the party might find 2–4 per dungeon.
+Magic items are rare. A party might find 2–4 per dungeon at low levels, and more in the deep sites of high-level play.
 
 **Item Tables** — Roll d6 for type, then d6 for specific item:
 
@@ -104,6 +107,19 @@ Magic items are rare. At basic play (levels 1–5), the party might find 2–4 p
 | 6   | Staff of Striking     | 2d10    | +1d6 bonus damage on a weapon hit                |
 
 Magic wands and staves become mundane after all charges are used.
+
+### Greater Items (d6)
+
+On deeper dungeon levels, the referee may roll here instead of the tables above.
+
+| d6  | Item                                                                |
+| --- | ------------------------------------------------------------------- |
+| 1   | Weapon +2 (further +3 attack and damage vs. a chosen creature type) |
+| 2   | Armor +2 or Shield +2                                               |
+| 3   | Ring of Regeneration (heal 1 HP/round; regrow lost limbs)           |
+| 4   | Cloak of Displacement (attackers suffer −2 to hit)                  |
+| 5   | Bag of Holding (carries tenfold its apparent volume, counts as 1 item) |
+| 6   | Staff of Power (2d10 charges; *Lightning Bolt* or *Fireball*, 1 charge each) |
 
 ## Cursed Items
 

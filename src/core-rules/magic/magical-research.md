@@ -54,13 +54,13 @@ Potions take effect when consumed. Potion effects mirror the spell, using the mi
 
 ## Spell Research
 
-Magic-Users at level 3+ may attempt to research new spells to be added to their spellbook.
+Magic-Users at level 3+ may research spells: inventing a new effect, or adding a spell from the Arcane Spell list to their spellbook outside of leveling up.
 
 ::: {.callout-important title="Spell Creation"}
 
 - **Time**: 2 weeks per spell level.
 - **Cost**: 1,000 gp per spell level.
-- **Process**: The caster describes the desired spell and its effects. The referee reviews and decides if the spell can be created, what spell level it would be, and any additional considerations. Alternatively, the caster selects a spell from the Arcane Spell list.
+- **Process**: The caster describes the desired spell and its effects. The referee reviews and decides if the spell can be created, what spell level it would be, and any additional considerations. Alternatively, the caster researches an existing spell from the Arcane Spell list.
 :::
 
 ### Copying a Spell

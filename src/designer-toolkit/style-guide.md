@@ -16,7 +16,7 @@ Use these conventions for all Deezix material.
 
 **Chances and skills.** Always written as `X-in-6` (never "X in 6" or "X/6"). In prose, attach the noun `chance`: "a **2-in-6 chance** of being surprised", "the default **1-in-6 chance**". In stat blocks, advancement tables, and rated-value labels, the contextual label (`Strong save`, `Stealth`, `Turn Undead`) substitutes for the noun — write the bare rating: `Stealth 3-in-6`. The system name itself stays bare: `the X-in-6 mechanic`, `Rule — X-in-6 Roll`.
 
-**Reaction and morale rolls** use **2d6 + modifiers** against a numeric score (4–11 for morale and loyalty). They are referee-side procedures and are directly compatible with B/X material.
+**Reaction and morale rolls** use **2d6 + modifiers** against a numeric score (4–11 for morale and loyalty). They are referee-side procedures and are directly compatible with classic material.
 
 **Classes.** Capitalize class names: Fighter, Cleric, Magic-User, Thief. Magic-User is always hyphenated.
 
@@ -91,7 +91,7 @@ Each equipment table is followed by a single-line key reminding readers of the c
 
 ### Stat lines
 
-Monster stat blocks follow the B/X-aligned single-line format. All fields appear on one line, comma-separated, with bold labels:
+Monster stat blocks follow the classic single-line format. All fields appear on one line, comma-separated, with bold labels:
 
 ```
 **AC** 13, **HD** 2** (9hp), **AB** +1, **Att** 1 × bite (1d6), **MV** 120' (40') (Climb 120' (40')), **SV** D3 W2 P3 B2 S1, **ML** 8, **AL** Neutral, **XP** 30, **NA** 1d6 (1d6), **TT** U

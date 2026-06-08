@@ -6,12 +6,12 @@
 
 A compact old-school-inspired tabletop roleplaying game system, designed to keep games moving while remaining compatible with existing OSR content and easy to extend.
 
-The SRD covers play from levels 1–5 and includes:
+The SRD covers play from levels 1–15 and includes:
 
 - Four classes — Fighter, Cleric, Magic-User, Thief
-- Arcane and divine magic
+- Arcane and divine magic, spell levels 1 to 6
 - Combat, dungeon exploration, and wilderness travel procedures
-- A low-level bestiary
+- A bestiary from kobolds to dragons
 - Full referee guidance
 - A Designer Toolkit for homebrew and expansion
 

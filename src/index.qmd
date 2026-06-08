@@ -1,44 +1,29 @@
 # Introduction
 
-Deezix is a compact old-school-inspired tabletop roleplaying game system. It is intended to keep games moving, focusing on the fun and thematic, while remaining compatible with existing OSR content and easy to extend. 
+Deezix is a compact old-school fantasy roleplaying game. Its rules are few and resolve quickly, so play stays on adventure. The **X-in-6** roll covers adventuring activities, saving throws, and class skills.
+
+The system is also a chassis. The [Designer Toolkit](designer-toolkit/designing-classes.md) covers creating new classes, spells, species, and monsters, or building a different game on the same frame.
+
+Deezix sits atop the core mechanics of old-school roleplaying games and is largely [compatible](appendix/osr-compatibility.md) with classic adventure modules and OSR content.
 
 ## A Complete Game
 
-The Core Rules in the SRD contain everything needed to start playing through level 5:
+The SRD contains everything needed to play from 1st to 15th level:
 
 - Four classes — Fighter, Cleric, Magic-User, Thief.
-- Arcane and divine magic.
+- Arcane and divine magic, spell levels 1 to 6.
 - Combat, dungeon exploration, and wilderness travel procedures.
-- A low-level bestiary.
+- A bestiary from kobolds to dragons.
 - Full referee guidance.
-
-## A Foundation for Designers
-
-Deezix is built to be modified. The [Designer Toolkit](designer-toolkit/designing-classes.md) is a companion guide for homebrewers and game designers who want to:
-
-- **Extend the core game** with new classes, spells, species, and monsters.
-- **Build new games** or campaign settings on the Deezix chassis.
 
 ## What Makes it Different
 
-Summary of notable changes for those familiar with OSR-style games:
+Notable changes for those familiar with old-school games:
 
-**General**
-
-- **X-in-6 mechanic**: governs most non-combat rolls — skills, saving throws, ability checks.
-- **General Skills**: four skills (Break, Languages, Search/Listen, Tumble) cover most adventuring activities.
-- **Item-based encumbrance**: a simple slot-counted system.
-- **Ascending AC and Attack Bonus**: AC counts up; Progressive class-based attack bonuses.
-
-**Characters & Classes**
-
-- **No ability score requirements**: No XP bonuses or class minimums. Each class applies its primary ability modifier to a specific General Skill (e.g., Fighter applies STR to Break).
-- **Clerics**: Simplified Turn Undead skill, a spell at level 1, magical research at level 3.
-- **Fighters**: Cleave ability for fighting multiple weaker enemies.
-- **Magic-Users**: Arcane Lore skill for detecting magic, reading magic, and identifying items. Magical research at level 3. No limit on known spells, but all must be obtained via research.
-- **Thieves**: Skill Points distributable to any General Skill or thief class skill (Climb, Tinker, Stealth, Sleight of Hand).
-
-**Combat**
-
-- **Fewer attack modifiers**: Fewer situational bonuses and penalties.
-- **Simplified maneuvers**: Melee movement rules are simplified. Other edge-case combat maneuvers are not present.
+- **One core mechanic**: the X-in-6 roll handles skills, saving throws, and ability checks.
+- **Four General Skills**: Break, Languages, Search/Listen, Tumble — cover most adventuring, and the Thief adds class skills through Skill Points.
+- **Ascending AC and class Attack Bonuses**: replace descending AC and attack tables.
+- **Slot-based encumbrance**: count carried items rather than coin weight, with bundled and oversized exceptions.
+- **No ability score requirements**: no class minimums and no prime-requisite XP bonuses; each class instead applies its key ability bonus to a General Skill.
+- **Thematic class abilities**: the Fighter's Cleave fells weak foes in a chain and the Magic-User's Arcane Lore detects and identifies magic — both new — plus reworked takes on the Thief's Backstab and the Cleric's Turn Undead.
+- **Simplified combat**: fewer situational modifiers and edge-case maneuvers.

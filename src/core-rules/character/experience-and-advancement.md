@@ -37,8 +37,15 @@ Monsters grant a small amount of XP for being defeated (slain, driven off, or si
 | 5+          |   225   |     175           |
 | 6           |   275   |     225           |
 | 6+          |   350   |     300           |
+| 7           |   450   |     400           |
+| 8           |   650   |     550           |
+| 9–10        |   900   |     700           |
+| 11–12       | 1,100   |     800           |
+| 13–16       | 1,350   |     950           |
+| 17–20       | 2,100   |   1,150           |
+| 21+         | 2,400   |   1,350           |
 
-Each asterisk on a monster's HD (e.g., HD 2\*\*) indicates one notable special ability. Add the row's **Bonus per Ability** to the **Base XP** once per asterisk.
+Each asterisk on a monster's HD (e.g., HD 2\*\*) marks a special ability that meaningfully raises its threat — not every trait is counted. Add the row's **Bonus per Ability** to the **Base XP** once per asterisk.
 
 ## Dividing XP
 
@@ -54,4 +61,4 @@ Full per-level tables (XP required, HD, Attack Bonus, saves, and class features)
 
 ## Leveling Up
 
-Leveling up occurs between sessions in a safe haven. On gaining a level: roll new Hit Die + CON mod (min 1); record new AB, saves, and any new class features.
+Leveling up occurs between sessions in a safe haven. On gaining a level: roll new Hit Die + CON mod (min 1), or add fixed hit points at level 10+; record new AB, saves, and any new class features.

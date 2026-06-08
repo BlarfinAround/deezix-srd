@@ -42,7 +42,7 @@ Establish before stocking:
 
 ## Dungeon Size
 
-For levels 1–5, keep adventure sites reasonably compact:
+Keep adventure sites reasonably compact:
 
 | Dungeon Size | Room Count | Sessions |
 |-------------|-----------|---------|
@@ -79,6 +79,15 @@ Create a wandering monster table for each dungeon level so encounters reflect th
 | 5 | 1d8 bandits | 2d4 orcs | 1d6 ogres |
 | 6 | Referee's choice | Referee's choice | Referee's choice |
 
+| d6 | Level 6–8 | Level 9–12 | Level 13+ |
+|----|-----------|------------|-----------|
+| 1 | 1d4 ogres | 1d2 hill giants | 1 dragon |
+| 2 | 1d6 gnolls + leader | 1d4 trolls | 1d2 stone giants |
+| 3 | 1d4 wights | 1d3 wyverns | 1d4 vampires |
+| 4 | 1 owlbear | 1d2 chimerae | 1 lich + retinue |
+| 5 | 1d6 lizard men | 1d4 manticores | 1d3 fire giants |
+| 6 | Referee's choice | Referee's choice | Referee's choice |
+
 ## Placing Treasure
 
 Treasure is the primary way players earn XP. If a monster is in the room, use the treasure type indicated in its description. Otherwise, roll based on the dungeon level:
@@ -88,6 +97,12 @@ Treasure is the primary way players earn XP. If a monster is in the room, use th
 **Level 2–3**: 1d12 × 100sp; 50%: 1d6 × 100gp; 10%: 1d6 gems; 5%: 1d6 pieces of jewelry; 8%: 1 magic item.
 
 **Level 4–5**: 1d6 × 1,000sp; 1d6 × 200gp; 20%: 1d6 gems; 10%: 1d6 pieces of jewelry; 10%: 1 magic item.
+
+**Level 6–8**: 1d8 × 1,000gp; 25%: 1d6 gems; 15%: 1d6 jewelry; 15%: 1 magic item.
+
+**Level 9–12**: 2d6 × 1,000gp; 30%: 1d8 gems; 20%: 1d6 jewelry; 20%: 1 greater item.
+
+**Level 13+**: 5d6 × 1,000gp; 40%: 1d10 gems; 25%: 1d8 jewelry; 30%: 1 greater item.
 
 ## Keys and Maps
 

@@ -31,13 +31,25 @@ Yes or No. Independent of armor tier — the Cleric pairs Medium armor with a sh
 
 ### Combat Progression
 
-The Attack Bonus curve from level 1 to 5.
+The Attack Bonus curve by level.
 
-| Progression | AB by Level |
-|---|---|
-| **Martial** | +1 / +1 / +2 / +3 / +3 |
-| **Semi-Martial** | +0 / +0 / +1 / +1 / +2 |
-| **Non-Martial** | +0 / +0 / +0 / +1 / +1 |
+| Level | Martial | Semi-Martial | Non-Martial |
+| ----- | ------- | ------------ | ----------- |
+| 1     | +1      | +0           | +0          |
+| 2     | +1      | +0           | +0          |
+| 3     | +2      | +1           | +0          |
+| 4     | +3      | +1           | +1          |
+| 5     | +3      | +2           | +1          |
+| 6     | +4      | +2           | +1          |
+| 7     | +5      | +3           | +2          |
+| 8     | +5      | +3           | +2          |
+| 9     | +6      | +4           | +2          |
+| 10    | +7      | +4           | +3          |
+| 11    | +7      | +5           | +3          |
+| 12    | +8      | +5           | +3          |
+| 13    | +9      | +6           | +4          |
+| 14    | +9      | +6           | +4          |
+| 15    | +10     | +7           | +4          |
 
 ### Weapon Access
 
@@ -54,8 +66,8 @@ Choose one:
 | Profile        | Summary                                                                         |
 | -------------- | ------------------------------------------------------------------------------- |
 | **Basic**      | Key ability modifier applies to designated General Skill                        |
-| **Advanced**   | As Basic, plus one class skill at 2-in-6; improves by +1 at levels 4, 7, and 10 |
-| **Specialist** | As Basic, plus 4 class skills + 2 points at creation; +2 points per level       |
+| **Advanced**   | As Basic, plus one class skill at 2-in-6; improves by +1 at levels 4, 9, and 14 |
+| **Specialist** | As Basic, plus 4 class skills + 2 points at creation; +2 points per level through 9, then +1 every other level |
 
 ### Key Ability
 

@@ -115,3 +115,104 @@ Removes one curse from a creature, and may allow them to be rid of a cursed item
 **Range**: 30' | **Duration**: 1 turn
 
 Enchants one weapon to deal an extra **1d6 damage** per hit, and to count as magical for the purpose of striking creatures only harmed by magical weapons.
+
+## 4th-Level Divine Spells
+
+### Create Water
+**Range**: The caster | **Duration**: Instant
+
+Conjures clean drinking water — enough for **12 people and their mounts** for a day.
+
+### Cure Serious Wounds
+**Range**: The caster or a creature touched | **Duration**: Instant
+
+Heals **2d6+2 hit points** on a touched creature (not exceeding their maximum) and ends minor afflictions. *Reversed*: *Cause Serious Wounds* — a melee touch deals **2d6+2 damage**.
+
+### Dispel Magic
+**Range**: 120' | **Duration**: Instant
+
+Cancels ongoing magical effects within a 20' cube. Effects from a weaker caster are removed automatically; a stronger caster's resist with a **5% chance per level** of difference. Has no effect on magic items.
+
+### Neutralize Poison
+**Range**: The caster or a creature touched | **Duration**: Instant
+
+Renders one creature's poison harmless, reviving a victim if cast within 10 rounds of a fatal dose. Also purifies one container of tainted food or drink. *Reversed*: *Poison* — a touched creature makes a **Death saving throw** or dies.
+
+### Protection from Evil, 10' Radius
+**Range**: 10' around the caster | **Duration**: 12 turns
+
+As *Protection from Evil*, but warding all allies within 10' of the caster. Protected allies gain **+1 to saves** against creatures of opposing alignment, and such creatures suffer **−1 to attack rolls** against them. Enchanted, conjured, or summoned creatures cannot melee anyone in the warded area; this melee ward drops if a protected ally initiates melee with such a creature, though the +1/−1 bonuses remain.
+
+### Speak with Plants
+**Range**: 30' | **Duration**: 3 turns
+
+The caster converses with plant life, asking simple questions of trees, vines, and grasses, and bidding overgrowth to part and let the party pass.
+
+### Sticks to Snakes
+**Range**: 120' | **Duration**: 6 turns
+
+Transforms **2d8 sticks** within range into snakes that obey the caster; up to half may be venomous (referee's discretion). They revert to sticks when slain or when the spell ends. *Reversed*: *Snakes to Sticks*.
+
+## 5th-Level Divine Spells
+
+### Commune
+**Range**: The caster | **Duration**: Special
+
+The caster contacts their deity to ask **three yes-or-no questions**, answered truthfully. Usable once per week; asking more often draws divine displeasure.
+
+### Create Food
+**Range**: 10' | **Duration**: Instant
+
+Conjures a day's nourishing food and water for **up to 12 people and their mounts**.
+
+### Dispel Evil
+**Range**: 30' | **Duration**: 1 turn
+
+Enchanted, conjured, and summoned creatures within range make a **Spells saving throw** or are banished or destroyed; a single targeted creature saves at **−2**. The spell also breaks a charm or possession afflicting an ally.
+
+### Insect Plague
+**Range**: 480' | **Duration**: Concentration
+
+Summons a dense swarm of biting insects filling a 60' area. Creatures inside cannot see or cast spells and take steady bites; any of 2 HD or fewer flee in panic. The caster must concentrate to hold the swarm in place.
+
+### Quest
+**Range**: 30' | **Duration**: Until fulfilled
+
+Lays a holy charge on one creature (**Spells saving throw** negates) to undertake or avoid a deed. While the quest is shirked, the subject suffers a worsening curse until they relent. *Reversed*: *Remove Quest*.
+
+### Raise Dead
+**Range**: 120' | **Duration**: Instant
+
+Returns a dead creature to life, provided no more than **four days per caster level above 7th** have passed. The restored character is frail — unable to fight or adventure — for two weeks. *Reversed*: *Finger of Death* — a target within range makes a **Death saving throw** or is slain.
+
+## 6th-Level Divine Spells
+
+### Aerial Servant
+**Range**: 10' | **Duration**: 1 day
+
+Summons an invisible aerial servant to fetch a creature or object the caster names. Swift and strong, it cannot fight, but seizes its quarry and returns. Thwarted too long, it turns on the caster.
+
+### Blade Barrier
+**Range**: 30' | **Duration**: 12 turns
+
+Rings an area with a wall of whirling blades. Any creature passing through takes **2d6 damage** (**Breath saving throw** halves). The barrier blocks passage and most charges.
+
+### Find the Path
+**Range**: The caster or a creature touched | **Duration**: 6 turns
+
+The subject unerringly knows the shortest way into or out of a place — a maze, a dungeon, trackless wilderness — for the duration. *Reversed*: *Lose the Path* — a touched victim becomes hopelessly lost.
+
+### Heal
+**Range**: The caster or a creature touched | **Duration**: Instant
+
+Restores a creature to **full hit points** and cures disease, blindness, and feeblemind. *Reversed*: *Harm* — a melee touch reduces the victim to **1d4 hit points** (**Death saving throw** halves the loss).
+
+### Speak with Monsters
+**Range**: The caster | **Duration**: 6 rounds
+
+The caster converses with any creature, however alien, for the duration. Even hostile creatures may pause to parley; their reaction is rolled normally.
+
+### Word of Recall
+**Range**: The caster | **Duration**: Instant
+
+Instantly returns the caster to a sanctuary consecrated in advance, along with any creatures they hold at the moment of casting (up to a modest load).

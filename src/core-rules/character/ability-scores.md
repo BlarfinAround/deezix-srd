@@ -8,7 +8,7 @@ Ability scores determine the innate physical and mental qualities of a character
 Physical power, muscle, and brute force.
 
 - **Melee attack and damage** modifier applies to all hand-to-hand attacks.
-- **Encumbrance** thresholds 
+- **Encumbrance**: STR modifier adjusts how many items a character can carry.
 - **Fighters** apply STR modifier to [Break](../adventuring/skills.md#break).
 
 ### Intelligence (INT)

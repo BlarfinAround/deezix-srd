@@ -13,20 +13,31 @@ The Thief is a skill specialist — lightly armored but competent in combat, wit
 
 ## Advancement Table
 
-| Level | XP    | Hit Dice | Attack Bonus | Skill Points |
-| ----- | ----- | -------- | ------------ | ------------ |
-| 1     | 0     | 1d6      | +0           | 2            |
-| 2     | 1,200 | 2d6      | +0           | +2           |
-| 3     | 2,400 | 3d6      | +1           | +2           |
-| 4     | 4,800 | 4d6      | +1           | +2           |
-| 5     | 9,600 | 5d6      | +2           | +2           |
+| Level | XP      | Hit Dice | Attack Bonus | Skill Points |
+| ----- | ------- | -------- | ------------ | ------------ |
+| 1     | 0       | 1d6      | +0           | 2            |
+| 2     | 1,200   | 2d6      | +0           | +2           |
+| 3     | 2,400   | 3d6      | +1           | +2           |
+| 4     | 4,800   | 4d6      | +1           | +2           |
+| 5     | 9,600   | 5d6      | +2           | +2           |
+| 6     | 20,000  | 6d6      | +2           | +2           |
+| 7     | 40,000  | 7d6      | +3           | +2           |
+| 8     | 80,000  | 8d6      | +3           | +2           |
+| 9     | 160,000 | 9d6      | +4           | +2           |
+| 10    | 280,000 | +2 hp    | +4           | +1           |
+| 11    | 400,000 | +2 hp    | +5           | —            |
+| 12    | 520,000 | +2 hp    | +5           | +1           |
+| 13    | 640,000 | +2 hp    | +6           | —            |
+| 14    | 760,000 | +2 hp    | +6           | +1           |
+| 15    | 880,000 | +2 hp    | +7           | —            |
 
 ## Saving Throws
 
 | Levels | Death | Wands | Paralysis | Breath | Spells |
 |--------|-------|-------|-----------|--------|--------|
 | 1–4    | 2     | 2     | 3         | 3      | 1      |
-| 5      | 3     | 3     | 4         | 4      | 2      |
+| 5–9    | 3     | 3     | 4         | 4      | 2      |
+| 10–15  | 4     | 4     | 5         | 5      | 3      |
 
 ## Skills
 
@@ -81,7 +92,9 @@ A melee attack against a target who is unaware of the Thief (surprised, or attac
 |-------|-------------|
 | 1–2 | +1 weapon die |
 | 3–4 | +2 weapon dice |
-| 5 | +3 weapon dice |
+| 5–8 | +3 weapon dice |
+| 9–12 | +4 weapon dice |
+| 13–15 | +5 weapon dice |
 
 The bonus applies only to the first attack; the target is aware afterward.
 :::

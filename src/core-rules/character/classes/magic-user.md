@@ -14,20 +14,33 @@ The Magic-User is a scholar and researcher of arcane knowledge who trades direct
 
 ## Advancement Table
 
-| Level | XP     | Hit Dice | Attack Bonus | Arcane Lore | Spell Slots (1st/2nd/3rd) |
-| ----- | ------ | -------- | ------------ | ----------- | ------------------------- |
-| 1     | 0      | 1d4      | +0           | 2-in-6      | 1/—/—                     |
-| 2     | 2,500  | 2d4      | +0           | 2-in-6      | 2/—/—                     |
-| 3     | 5,000  | 3d4      | +0           | 2-in-6      | 2/1/—                     |
-| 4     | 10,000 | 4d4      | +1           | 3-in-6      | 2/2/—                     |
-| 5     | 20,000 | 5d4      | +1           | 3-in-6      | 2/2/1                     |
+| Level | XP        | Hit Dice | Attack Bonus | Arcane Lore | Spell Slots |
+| ----- | --------- | -------- | ------------ | ----------- | ----------- |
+| 1     | 0         | 1d4      | +0           | 2-in-6      | 1           |
+| 2     | 2,500     | 2d4      | +0           | 2-in-6      | 2           |
+| 3     | 5,000     | 3d4      | +0           | 2-in-6      | 2/1         |
+| 4     | 10,000    | 4d4      | +1           | 3-in-6      | 2/2         |
+| 5     | 20,000    | 5d4      | +1           | 3-in-6      | 2/2/1       |
+| 6     | 40,000    | 6d4      | +1           | 3-in-6      | 3/2/2       |
+| 7     | 80,000    | 7d4      | +2           | 3-in-6      | 3/2/2/1     |
+| 8     | 150,000   | 8d4      | +2           | 3-in-6      | 3/3/2/2     |
+| 9     | 300,000   | 9d4      | +2           | 4-in-6      | 3/3/2/2/1   |
+| 10    | 450,000   | +1 hp    | +3           | 4-in-6      | 4/3/3/2/2   |
+| 11    | 600,000   | +1 hp    | +3           | 4-in-6      | 4/3/3/2/2/1 |
+| 12    | 750,000   | +1 hp    | +3           | 4-in-6      | 4/4/3/3/2/2 |
+| 13    | 900,000   | +1 hp    | +4           | 4-in-6      | 4/4/3/3/3/2 |
+| 14    | 1,050,000 | +1 hp    | +4           | 5-in-6      | 5/4/4/3/3/2 |
+| 15    | 1,200,000 | +1 hp    | +4           | 5-in-6      | 5/4/4/3/3/3 |
+
+Spell Slots list available slots by spell level (1st–6th).
 
 ## Saving Throws
 
 | Levels | Death | Wands | Paralysis | Breath | Spells |
 |--------|-------|-------|-----------|--------|--------|
 | 1–4    | 2     | 3     | 2         | 1      | 3      |
-| 5      | 3     | 4     | 3         | 2      | 4      |
+| 5–9    | 3     | 4     | 3         | 2      | 4      |
+| 10–15  | 4     | 5     | 4         | 3      | 5      |
 
 ## Skills
 
@@ -39,7 +52,7 @@ The Magic-User's INT modifier applies to [Languages](../../adventuring/skills.md
 Chance-based ability to detect magic, read magical writing, identify magic items, or recall arcane knowledge.
 
 - **Start**: 2-in-6 at level 1
-- Improves by +1 at level 4
+- Improves at levels 4, 9, and 14 (maximum 5-in-6)
 
 Roll Arcane Lore to:
 

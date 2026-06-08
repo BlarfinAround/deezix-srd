@@ -48,7 +48,7 @@ Doors in dungeons are often stuck, locked, or swollen from damp. Failed attempts
 
 ::: {.callout-important title="Doors"}
 - **Stuck**: [Break](skills.md#break) roll. Retry takes a full turn of effort.
-- **Locked**: requires the key, a *Cast Knock* spell, or a [Tinker](../character/classes/thief.md#class-skills) roll (Thief).
+- **Locked**: requires the key, a *Knock* spell, or a [Tinker](../character/classes/thief.md#class-skills) roll (Thief).
 - **Secret**: found by a successful [Search/Listen](skills.md#search-listen) roll while actively searching, or by direct investigation (e.g. removing a painting from a wall).
 - **Barricaded / portcullised**: combined STR effort or mechanical solution (winch, crowbar). Multiple characters may roll Break and aggregate successes.
 

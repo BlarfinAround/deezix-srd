@@ -9,6 +9,9 @@ Spell level gates access by class advancement and signals the mechanical envelop
 - **1st-level**: limited single-target effects. Damage and healing cap around 1d6+1.
 - **2nd-level**: lasting effects, small-area control, or significant utility. Damage is unusual at this tier.
 - **3rd-level**: scaling area damage (1d6 per caster level), multi-target control, party transformation, or permanent state change.
+- **4th-level**: battlefield-scale control, major transformation, or a powerful ward (*Wall of Fire*, *Confusion*, *Dimension Door*).
+- **5th-level**: devastating effects, permanent conjuration, or mass death and control (*Cloudkill*, *Teleport*, *Animate Dead*).
+- **6th-level**: legendary, reality-bending magic (*Disintegrate*, *Geas*, *Stone to Flesh*). High-level spells should open new categories of problem-solving, not merely add damage.
 
 ## Range
 

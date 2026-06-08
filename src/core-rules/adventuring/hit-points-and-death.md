@@ -17,6 +17,8 @@ Characters gain HP by rolling their class's **Hit Die** at each level and adding
 A 1st-level Fighter with CON 15 (+1) rolls a d8 and gets 4. Adding +1 gives 5 HP. At 2nd level they roll again: 7 + 1 = 8 additional HP, for a total of 13.
 :::
 
+From level 10, a character stops rolling Hit Dice and instead gains a **fixed number of hit points per level**, listed in their class table. The CON modifier no longer applies.
+
 ## Death
 
 ::: {.callout-important title="Death"}

@@ -25,8 +25,10 @@ HD determines:
 | 1   | Minor threat; appropriate for level 1 PCs   | Orc, Skeleton, Bandit              |
 | 2   | Meaningful threat; challenging for level 1–2 | Gnoll, Giant Spider, Wolf         |
 | 3–4 | Significant threat; dangerous for level 2–3 | Wight, Harpy, Ogre                 |
-| 5–6 | Boss-level; challenging for level 3+        | Troll                              |
-| 7+  | Beyond this bestiary; for higher-level play | Giants, dragons, and the like (not statted here) |
+| 5–6 | Boss-level; challenging for level 3+        | Troll, Manticore, Minotaur         |
+| 7–9 | High threat; for levels 6–9                 | Wyvern, Hill Giant, Chimera, Spectre |
+| 10–12 | Very high; for levels 9–12                | Frost Giant, Black Pudding, Lich   |
+| 13+ | Legendary; for high-level play              | Dragons, Storm Giant, Purple Worm  |
 
 These are starting points, not brackets — a creature a hit die off its row is still in range.
 
@@ -50,7 +52,7 @@ Match the monster's single-attack damage to its role. These are rough guides, no
 | Nuisance | 1d3–1d4 | Giant Rat, Kobold, Stirge |
 | Standard threat | 1d6 | Orc, Goblin, Wolf |
 | Heavy hitter | 1d8–1d10 | Hobgoblin, Zombie, Ogre |
-| Devastating | 2d6 or 1d10+ | Beyond this bestiary (giants, dragons) |
+| Devastating | 2d6 or 1d10+ | Giants, dragons, purple worm |
 
 ## Special Abilities
 
@@ -85,7 +87,7 @@ How the creature fights and acts. These shape an encounter but typically don't c
 
 ## XP Calculation
 
-Mark each notable special with an asterisk after the HD (e.g., HD 2\*\* = 2 specials). Use the [Monster XP table](../core-rules/character/experience-and-advancement.md#monster-xp): **Total XP = Base + (asterisks × Bonus per Ability)**.
+Mark each special that **meaningfully raises the monster's threat** with an asterisk after the HD (e.g., HD 2\*\* = 2 specials); minor or behavioural traits are not counted. Use the [Monster XP table](../core-rules/character/experience-and-advancement.md#monster-xp): **Total XP = Base + (asterisks × Bonus per Ability)**.
 
 ::: {.callout-note title="Example: Giant Leech"}
 **Concept**: A swamp creature — a massive leech that lurks in shallow water and drains blood.

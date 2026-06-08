@@ -35,15 +35,6 @@ book:
         - core-rules/character/equipment/mounts-and-transport.md
         - core-rules/character/equipment/retainers-and-hirelings.md
 
-    - part: "Magic"
-      chapters:
-        - core-rules/magic/magic-overview.md
-        - core-rules/magic/arcane-magic.md
-        - core-rules/magic/divine-magic.md
-        - core-rules/magic/arcane-spells.md
-        - core-rules/magic/divine-spells.md
-        - core-rules/magic/magical-research.md
-
     - part: "Adventuring"
       chapters:
         - core-rules/adventuring/hit-points-and-death.md
@@ -54,11 +45,21 @@ book:
         - core-rules/adventuring/wilderness-travel.md
         - core-rules/adventuring/combat.md
 
+    - part: "Magic"
+      chapters:
+        - core-rules/magic/magic-overview.md
+        - core-rules/magic/arcane-magic.md
+        - core-rules/magic/divine-magic.md
+        - core-rules/magic/arcane-spells.md
+        - core-rules/magic/divine-spells.md
+        - core-rules/magic/magical-research.md
+
     - part: "Running the Game"
       chapters:
         - core-rules/referee/referees-role.md
         - core-rules/referee/reactions-morale-loyalty.md
         - core-rules/referee/creating-adventures.md
+        - core-rules/referee/domains.md
 
     - part: "Monsters"
       chapters:
@@ -69,12 +70,12 @@ book:
 
     - part: "Designer Toolkit"
       chapters:
-        - designer-toolkit/expanding-the-game.md
         - designer-toolkit/designing-classes.md
         - designer-toolkit/designing-spells.md
         - designer-toolkit/designing-monsters.md
         - designer-toolkit/species-and-kindreds.md
 
+    - appendix/osr-compatibility.md
     - appendix/character-sheet.md
 
     - acknowledgements.md

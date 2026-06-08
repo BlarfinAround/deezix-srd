@@ -1,6 +1,6 @@
 # Cleric
 
-The Cleric is a holy warrior skilled in combat and divine spell casting to protect allies and otherworldly foes.
+The Cleric is a holy warrior skilled in combat and divine spell casting to protect allies from otherworldly foes.
 
 ## Class Summary
 
@@ -14,20 +14,33 @@ The Cleric is a holy warrior skilled in combat and divine spell casting to prote
 
 ## Advancement Table
 
-| Level | XP     | Hit Dice | Attack Bonus | Turn Undead | Spell Slots (1st/2nd/3rd) |
-| ----- | ------ | -------- | ------------ | ----------- | ------------------------- |
-| 1     | 0      | 1d6      | +0           | 2-in-6      | 1/—/—                     |
-| 2     | 1,500  | 2d6      | +0           | 2-in-6      | 2/—/—                     |
-| 3     | 3,000  | 3d6      | +1           | 2-in-6      | 2/1/—                     |
-| 4     | 6,000  | 4d6      | +1           | 3-in-6      | 2/2/—                     |
-| 5     | 12,000 | 5d6      | +2           | 3-in-6      | 2/2/1                     |
+| Level | XP      | Hit Dice | Attack Bonus | Turn Undead | Spell Slots       |
+| ----- | ------- | -------- | ------------ | ----------- | ----------------- |
+| 1     | 0       | 1d6      | +0           | 2-in-6      | 1                 |
+| 2     | 1,500   | 2d6      | +0           | 2-in-6      | 2                 |
+| 3     | 3,000   | 3d6      | +1           | 2-in-6      | 2/1               |
+| 4     | 6,000   | 4d6      | +1           | 3-in-6      | 2/2               |
+| 5     | 12,000  | 5d6      | +2           | 3-in-6      | 2/2/1             |
+| 6     | 25,000  | 6d6      | +2           | 3-in-6      | 3/2/2             |
+| 7     | 50,000  | 7d6      | +3           | 3-in-6      | 3/2/2/1           |
+| 8     | 100,000 | 8d6      | +3           | 3-in-6      | 3/3/2/2           |
+| 9     | 200,000 | 9d6      | +4           | 4-in-6      | 3/3/2/2/1         |
+| 10    | 300,000 | +1 hp    | +4           | 4-in-6      | 4/3/3/2/2         |
+| 11    | 400,000 | +1 hp    | +5           | 4-in-6      | 4/3/3/2/2/1       |
+| 12    | 500,000 | +1 hp    | +5           | 4-in-6      | 4/4/3/3/2/2       |
+| 13    | 600,000 | +1 hp    | +6           | 4-in-6      | 4/4/3/3/3/2       |
+| 14    | 700,000 | +1 hp    | +6           | 5-in-6      | 5/4/4/3/3/2       |
+| 15    | 800,000 | +1 hp    | +7           | 5-in-6      | 5/4/4/3/3/3       |
+
+Spell Slots list available slots by spell level (1st–6th).
 
 ## Saving Throws
 
 | Levels | Death | Wands | Paralysis | Breath | Spells |
 |--------|-------|-------|-----------|--------|--------|
 | 1–4    | 3     | 3     | 2         | 1      | 2      |
-| 5      | 4     | 4     | 3         | 2      | 3      |
+| 5–9    | 4     | 4     | 3         | 2      | 3      |
+| 10–15  | 5     | 5     | 4         | 3      | 4      |
 
 ## Skills
 
@@ -39,7 +52,7 @@ The Cleric's WIS modifier applies to [Search/Listen](../../adventuring/skills.md
 The Cleric may channel holy power to repel or destroy undead.
 
 - **Start**: 2-in-6 at level 1
-- Improves by +1 at level 4
+- Improves at levels 4, 9, and 14 (maximum 5-in-6)
 
 Once per encounter, the Cleric presents a holy symbol and rolls Turn Undead.
 
