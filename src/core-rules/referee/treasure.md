@@ -16,7 +16,7 @@ Monster stat blocks reference treasure by **letter code**. The format `TT X (Y)`
 
 Lair treasure is only present when the encounter takes place in the monsters' lair. Monsters encountered as wandering encounters carry only individual treasure (the X value), not lair treasure.
 
-Only the treasure types used by monsters in this SRD are listed. The codes follow classic conventions for OSR compatibility.
+All standard treasure type codes are listed for full OSR compatibility.
 
 ### Lair Treasure (hoards)
 
@@ -30,14 +30,30 @@ Only the treasure types used by monsters in this SRD are listed. The codes follo
 | **F** | 10% 2d10×1,000 sp; 20% 1d8×1,000 ep; 45% 1d12×1,000 gp; 30% 1d3×1,000 pp | 20% 2d12 | 10% 1d12 | 30% any 3 (no weapons) + 1 potion + 1 scroll |
 | **G** | 50% 1d4×10,000 gp; 50% 1d6×1,000 pp | 25% 3d6 | 25% 1d10 | 35% any 4 + 1 scroll |
 | **H** | 25% 3d8×1,000 cp; 50% 1d100×1,000 sp; 50% 1d4×10,000 ep; 50% 1d6×10,000 gp; 25% 5d4×1,000 pp | 50% 1d100 | 50% 1d4×10 | 15% any 4 + 1 potion + 1 scroll |
+| **I** | 30% 1d8×1,000 pp | 50% 2d6 | 50% 2d6 | 15% any 1 |
+| **J** | 25% 1d4×1,000 cp; 10% 1d3×1,000 sp | — | — | — |
+| **K** | 30% 1d6×1,000 sp; 10% 1d2×1,000 ep | — | — | — |
+| **L** | — | 50% 1d4 | — | — |
+| **M** | 40% 2d4×1,000 gp; 50% 5d6×1,000 pp | 55% 5d4 | 45% 2d6 | — |
+| **N** | — | — | — | 40% 2d4 potions |
+| **O** | — | — | — | 50% 1d4 scrolls |
 
-### Individual Treasure (carried)
+### Individual Treasure (carried by each creature)
 
 | TT | Carried |
 |----|---------|
 | **P** | 3d8 cp |
-| **R** | 2d6 ep, 2d6 gp |
-| **U** | 1d20 cp, 1d20 sp, 1d20 gp; 5% chance of 1 gem; 5% chance of 1 piece of jewelry; 2% chance of 1 magic item |
+| **Q** | 3d6 sp |
+| **R** | 2d6 ep |
+| **S** | 2d4 gp |
+| **T** | 1d6 pp |
+
+### Group Treasure (carried collectively)
+
+| TT | Coins | Gems | Jewelry | Magic |
+|----|-------|------|---------|-------|
+| **U** | 10% 1d100 cp; 10% 1d100 sp; 5% 1d100 gp | 5% 1d4 | 5% 1d4 | 2% any 1 |
+| **V** | 10% 1d100 sp; 5% 1d100 ep; 10% 1d100 gp; 5% 1d100 pp | 10% 1d4 | 10% 1d4 | 5% any 1 |
 
 ## Gems and Jewelry
 
