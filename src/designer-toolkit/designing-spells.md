@@ -42,7 +42,7 @@ Some durations scale per caster level — e.g., *Light* lasts 6 turns + 1 turn p
 
 ## Saving Throws
 
-Designed spells use the **Spells** category. Death, Wands, Paralysis, and Breath are reserved for non-spell threats (poisons, monster abilities, dragon breath, traps).
+By default, designed spells use the **Spells** category. Death, Wands, Paralysis, and Breath are reserved for non-spell threats (poisons, monster abilities, dragon breath, traps) — depart from this only when a spell is clearly imitating one of those categories.
 
 Three patterns cover most spells:
 

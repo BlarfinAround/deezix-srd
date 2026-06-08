@@ -140,7 +140,7 @@ Pick the two Strong and the one Weak that fit the class's concept; the remaining
 |---|---|---|---|---|---|---|
 | Fighter | Basic | STR | None | — | Cleave | 2,000 |
 | Cleric | Advanced (Turn Undead) | WIS | Prepared (Class List) | L3 scrolls, holy water, oils | Turn Undead | 1,500 |
-| Magic-User | Advanced (Arcane Lore) | INT | Prepared (Spellbook) | L3 scrolls, potions, spell creation | Arcane Lore + Scroll Use | 2,500 |
+| Magic-User | Advanced (Arcane Lore) | INT | Prepared (Spellbook) | L3 scrolls, potions, spell creation | Arcane Lore | 2,500 |
 | Thief | Specialist | DEX | None | — | Backstab | 1,200 |
 
 ## XP Progression

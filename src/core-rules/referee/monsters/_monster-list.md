@@ -56,7 +56,7 @@
 ## Cultist
 *Devoted servants of dark powers, willing to die for their cause.*
 
-**AC** 17, **HD** 1 (4hp), **AB** +0, **Att** 1 × weapon (1d6) or 1 × ritual dagger (1d4), **MV** 60' (20'), **SV** D3 W2 P3 B2 S1, **ML** 7, **AL** Chaotic, **XP** 10, **NA** 1d8 (1d20)
+**AC** 17, **HD** 1 (4hp), **AB** +0, **Att** 1 × weapon (1d6) or 1 × ritual dagger (1d4), **MV** 60' (20'), **SV** D3 W2 P3 B2 S1, **ML** 7, **AL** Chaotic, **XP** 10, **NA** 1d8 (1d20), **TT** U (A)
 
 - **Ritual vestments**: Heavy ceremonial robes conceal plate-grade protections gifted by their dark patron.
 - **High priest**: Any band of four or more is led by a cleric of 2nd–5th level (referee's choice of prepared spells).
