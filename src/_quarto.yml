@@ -40,9 +40,9 @@ book:
         - core-rules/adventuring/hit-points-and-death.md
         - core-rules/adventuring/saving-throws.md
         - core-rules/adventuring/skills.md
-        - core-rules/adventuring/encounters.md
         - core-rules/adventuring/dungeon-exploration.md
         - core-rules/adventuring/wilderness-travel.md
+        - core-rules/adventuring/encounters.md
         - core-rules/adventuring/combat.md
 
     - part: "Magic"
