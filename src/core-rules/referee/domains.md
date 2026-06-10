@@ -8,7 +8,7 @@ A character who clears a region of monsters and builds a stronghold attracts fol
 
 ### Construction Costs
 
-OSE structure costs; a keep requires **one engineer per 100,000 gp** of construction cost.
+Typical structure costs; a keep requires **one engineer per 100,000 gp** of construction cost.
 
 | Class      | Stronghold          | Cost      | Build Time        |
 | ---------- | ------------------- | --------- | ----------------- |
