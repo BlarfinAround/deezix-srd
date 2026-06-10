@@ -48,6 +48,8 @@ Roll **3d6 × 10 gp** for starting gold. See the class entry for recommended pur
 
 Magic-Users begin play with a free spellbook containing **two 1st-level spells** of the player's choice.
 
+Clerics begin play with a free **holy symbol**.
+
 ## Step 7 — Determine Armor Class
 
 Worn armor sets the character's **AC** (10 if unarmored, up to 16 in plate). Add the DEX modifier, and +1 for a shield.

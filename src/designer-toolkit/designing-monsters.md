@@ -73,6 +73,8 @@ Limits how the party can hurt the monster:
 - **Magic only** to wound — Shadow
 - **Elemental immunity** — Gray Slime (fire and cold)
 
+Defensive immunities on low-HD creatures may be left uncounted, following classic convention (e.g., the Gargoyle at 4 HD carries mundane immunity without an asterisk). Reserve asterisks for specials that meaningfully raise the encounter threat beyond the creature's HD peer.
+
 **Persistent effects**
 Keep working after the first hit:
 

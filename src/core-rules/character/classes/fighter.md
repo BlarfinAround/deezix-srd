@@ -48,7 +48,7 @@ The Fighter's STR modifier applies to [Break](../../adventuring/skills.md#break)
 ### Cleave
 
 ::: {.callout-important title="Cleave"}
-When a Fighter's attack **reduces a creature to 0 hit points**, they may immediately **attack another opponent within melee reach**. The maximum number of additional attacks allowed is equal to the Fighter's level.
+When a Fighter's **melee attack** reduces a creature to 0 hit points, they may immediately **attack another opponent within melee reach**. The maximum number of additional attacks allowed is equal to the Fighter's level.
 :::
 
 ## Starting Equipment (Suggested)

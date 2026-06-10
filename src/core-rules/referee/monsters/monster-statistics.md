@@ -10,7 +10,7 @@ Every monster is described with a standardized stat block. Fields below.
 | **Att**  | Attacks, listed as **count × type (damage)**, e.g., `2 × claw (1d6)`. Special attacks appear as separate trait lines. |
 | **MV**   | Movement: feet per dungeon turn, with feet per combat round in parentheses (`MV 120' (40')`). Additional modes follow, e.g., `(Fly 180' (60'))`. |
 | **SV**   | Saving Throws — five values in canonical order: **D**eath · **W**ands · **P**aralysis · **B**reath · **S**pells. Monsters save as a **Fighter equal to their HD**; exceptions appear in traits. |
-| **ML**   | Morale (2d6 score), 4 (cowardly) to 11 (fearless). Mindless monsters list `—` and never check. |
+| **ML**   | Morale (2d6 score), 4 (cowardly) to 12 (never breaks). Mindless monsters list `—` and never check. |
 | **AL**   | Alignment: Lawful (L), Neutral (N), or Chaotic (C). Two values mean behavior varies. |
 | **XP**   | Experience awarded for defeating the monster. |
 | **NA**   | Number Appearing as `XdY (AdB)`: dungeon encounter, then wilderness lair. A leading `1` with no roll means a fixed single encounter. |

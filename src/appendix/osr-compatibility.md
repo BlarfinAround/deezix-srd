@@ -4,7 +4,7 @@ Deezix runs classic adventures with little adaptation. Four areas differ enough 
 
 ## Saving Throws
 
-Classic saves roll high on a d20, advancing per class and reaching 85–95% on strong saves by high level. Deezix rolls low on a d6 across three level bands, each class having one weak, two standard, and one strong category.
+Classic saves roll high on a d20, advancing per class and reaching 85–95% on strong saves by high level. Deezix rolls low on a d6 across three level bands, each class having one weak, two standard, and two strong categories.
 
 | Level band | Weak | Standard | Strong |
 |---|---|---|---|
@@ -40,7 +40,7 @@ High-stat characters outperform classic equivalents. Parties find and hear thing
 | | Classic | Deezix |
 |---|---|---|
 | **Fighter** | No special ability | Cleave: free strike on kill |
-| **Cleric** | Spells from level 2; plate armor | Spells from level 1; no plate |
+| **Cleric** | Spells from level 2; plate armor; spell levels 1–5 only | Spells from level 1; no plate; follows the Magic-User slot curve (slower above level 11); gains 6th-level divine spells |
 | **Magic-User** | Reading or detecting magic costs a spell slot; No magic item identification | Arcane Lore gives a chance to read scrolls/spellbooks, detect magic, and identify magic items and creatures |
 | **Thief** | Percentile skills; Backstab damage multiplier | Assignable skill points; Backstab weapon dice multiplier |
 

@@ -19,7 +19,7 @@ Characters arm and armor themselves from the lists below. Weapons deal damage; a
 | Sword                  | 1d8    | 10 gp | —                           |
 | Maul                   | 1d8    | 12 gp | Blunt; two-handed           |
 | ***Two-handed sword*** | 1d10   | 15 gp | Two-handed                  |
-| ***Lance***            | 1d12   | 6 gp  | Mounted only                |
+| ***Lance***            | 1d12   | 15 gp | Mounted only (charging)     |
 
 
 ### Ranged Weapons
@@ -38,6 +38,7 @@ Characters arm and armor themselves from the lists below. Weapons deal damage; a
 **Weapon Properties**
 
 - **Blunt**: May be used by clerics.
+- **Charging**: The lance's 1d12 damage assumes a mounted charge. When used without forward momentum (fighting in place, dismounted), it deals 1d6 as a spear.
 - **Mounted only**: ineffective unless the character is mounted.
 - **Range**: at *Near* range, attacks roll normally. At *Far* range, attacks suffer **−2**. Beyond far range, attacks are impossible.
 - **Silver**: Effective against certain supernatural creatures.

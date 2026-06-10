@@ -6,7 +6,7 @@ These procedures cover when monsters break and flee, and how retainers stay loya
 
 Morale determines when monsters and NPCs **break and flee** rather than fight to the death. Player characters are never subject to morale.
 
-Each monster has a **Morale** score from 4 (cowardly) to 11 (fearless), with 7–8 as average. Mindless undead, golems, and constructs **never check morale**.
+Each monster has a **Morale** score from 4 (cowardly) to 12 (never breaks), with 7–8 as average. Mindless undead, golems, and constructs **never check morale** and list `—` instead of a score.
 
 ### When to Check
 

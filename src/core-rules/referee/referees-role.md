@@ -21,7 +21,7 @@ X-in-6 chance rolls are a quick way to handle uncertain situations not covered b
 | 4-in-6 | 66.7%    | Probably |
 | 5-in-6 | 83.3%    | Highly likely |
 
-**Ability Checks**: Ability scores may be used to determine a character's chance of succeeding tasks not covered by Skills. In these cases, start with a base **2-in-6 chance** and apply the relevant ability modifier.
+**Ability Checks**: When a General Skill covers the task, roll it. For tasks not covered by any skill, start with a base **2-in-6 chance** and apply the relevant ability modifier.
 
 ## Monster Behavior
 

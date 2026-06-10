@@ -56,10 +56,18 @@
 ## Cultist
 *Devoted servants of dark powers, willing to die for their cause.*
 
-**AC** 17, **HD** 1 (4hp), **AB** +0, **Att** 1 × weapon (1d6) or 1 × ritual dagger (1d4), **MV** 60' (20'), **SV** D3 W2 P3 B2 S1, **ML** 7, **AL** Chaotic, **XP** 10, **NA** 1d8 (1d20), **TT** U (A)
+**AC** 15, **HD** 1 (4hp), **AB** +0, **Att** 1 × weapon (1d6) or 1 × ritual dagger (1d4), **MV** 60' (20'), **SV** D3 W2 P3 B2 S1, **ML** 7, **AL** Chaotic, **XP** 10, **NA** 1d8 (1d20), **TT** U (A)
 
-- **Ritual vestments**: Heavy ceremonial robes conceal plate-grade protections gifted by their dark patron.
+- **Ritual vestments**: Layered ceremonial robes and blessed bracers function as chain and shield.
 - **High priest**: Any band of four or more is led by a cleric of 2nd–5th level (referee's choice of prepared spells).
+
+## Dire Wolf
+*A massive, shaggy predator, half again the size of a common wolf, with jaws that can crack bone.*
+
+**AC** 13, **HD** 4+1 (21hp), **AB** +3, **Att** 1 × bite (2d4), **MV** 180' (60'), **SV** D3 W2 P3 B2 S1, **ML** 8 (9 in packs), **AL** Neutral, **XP** 125, **NA** 1d4 (2d4), **TT** —
+
+- **Pack Courage**: A pack of four or more fights at morale 9. The bonus is lost when the pack drops below half its starting count.
+- **War-Trained**: Some dire wolves are trained as mounts; a rider uses the wolf's movement and gains the mounted combat bonus.
 
 ## Doppelganger
 *A faceless shapeshifter that takes the form of those it kills.*
@@ -196,7 +204,7 @@ Summoned elementals come in three strengths, by the means of conjuring: a staff 
 - **Infravision**: 90'.
 - **Daylight Weakness**: −1 to attack rolls in direct sunlight.
 - **Dire Wolf Cavalry**: 20% chance that one quarter of a group rides war-trained dire wolves.
-- **Dwarf Enmity**: Will attack dwarves on sight, ignoring other targets if able.
+- **Ancient Enmity**: Will attack dwarves — or their setting equivalent — on sight, ignoring other targets if able.
 - **Royal Court**: A lair holds a 3 HD king (15 hp, +1 damage) and 2d6 bodyguards (2 HD). Neither suffers the daylight penalty.
 
 ## Gray Slime
@@ -244,7 +252,7 @@ Summoned elementals come in three strengths, by the means of conjuring: a staff 
 
 - **Ambushers**: Prefer to strike from surprise and from prepared traps.
 - **Infravision**: 90'.
-- **Gnome Enmity**: Will attack gnomes on sight.
+- **Ancient Enmity**: Will attack gnomes — or their setting equivalent — on sight.
 - **Chieftain's Guard**: A lair holds a 2 HD chieftain (9 hp) and 1d6 bodyguards (1+1 HD, 6 hp each).
 
 ## Lich
@@ -312,7 +320,7 @@ Summoned elementals come in three strengths, by the means of conjuring: a staff 
 **AC** 14, **HD** 4+1 (19hp), **AB** +3, **Att** 1 × club (1d10), **MV** 90' (30'), **SV** D3 W2 P3 B2 S1, **ML** 10, **AL** Chaotic, **XP** 125, **NA** 1d6 (2d6), **TT** C + 1,000 gp
 
 - **Loot Sack**: Away from its lair an ogre carries a hide sack holding 1d6 × 100 gp.
-- **Neanderthal Enmity**: Will attack Neanderthals on sight.
+- **Ancient Enmity**: Will attack Neanderthals — or their setting equivalent — on sight.
 
 ## Orc
 *Brutish humanoids, raiders and warriors.*

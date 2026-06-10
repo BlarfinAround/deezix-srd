@@ -109,14 +109,14 @@ Roll d% for type, then d10 for the specific item within that category.
 
 | d10 | Item | Effect |
 |---|---|---|
-| 1 | Bag of Holding | Holds objects up to 10'×5'×3' (max 10,000 coins weight); weighs 600 coins regardless of contents |
+| 1 | Bag of Holding | Holds objects up to 10'×5'×3' (up to 30 items or equivalent bulk); counts as 1 carried item regardless of contents |
 | 2 | Horn of Blasting | 2d6 damage to all in 100'×20' cone; targets deafened 1 turn (Spells save negates deafening only); may demolish structures (1 blast for wood, 3 for stone); 1×/turn |
 | 3 | Helm of Telepathy | Read and send thoughts to one creature within 90'; concentration required; may also implant a suggestion (Spells save negates) |
 | 4 | Flying Carpet | Carries up to 3 riders; fly at move speed indefinitely |
 | 5 | Crystal Ball | View any place or creature, 3×/day, 1 turn each; arcane users only; cannot cast spells through |
 | 6 | Gauntlets of Ogre Power | STR 18; +3 melee attack and damage |
 | 7 | Cloak of Displacement | Wearer appears 5' from true location; attackers −2 to hit |
-| 8 | Rope of Climbing | 50' rope animates on command; climbs any surface; supports 10,000 coins |
+| 8 | Rope of Climbing | 50' rope animates on command; climbs any surface; supports the weight of three characters and their gear |
 | 9 | Boots of Speed | Movement 240' for up to 12 hours; 1 day rest required before reuse |
 | 10 | Efreeti Bottle | Bound efreeti serves 1×/day for 101 days, then returns to its home plane |
 
@@ -147,7 +147,7 @@ All effects last 1d6+6 turns unless noted otherwise.
 | 4 | Ring of Water Walking | Walk on calm water as solid ground |
 | 5 | Ring of Regeneration | Heal 1 HP/round; regrow lost limbs over 1 week |
 | 6 | Ring of Spell Turning | 2-in-6 chance to reflect a targeted spell back at its caster |
-| 7 | Ring of Telekinesis | Move objects up to 2,000 coins weight within 120'; concentration required |
+| 7 | Ring of Telekinesis | Move objects up to 200 lbs within 120'; concentration required |
 | 8 | Ring of Djinni Summoning | Summon a djinni to serve 1×/week for 24 hours |
 | 9 | Ring of Wishes | Contains 1d4 wishes |
 | 10 | Cursed Ring of Weakness | Appears as Ring of Protection; STR and CHA halved; cannot remove without *Remove Curse* |

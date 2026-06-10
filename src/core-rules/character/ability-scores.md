@@ -16,19 +16,19 @@ Reasoning, memory, and learning.
 
 - **Languages**: Characters know their native tongue plus one additional language per point of INT bonus.
 - **Literacy**: Characters with INT 5 or lower are illiterate and cannot roll [Languages](../adventuring/skills.md#languages).
-- **Magic-Users** apply INT bonus to Languages.
+- **Magic-Users** apply INT modifier to Languages.
 
 ### Wisdom (WIS)
 Perception, willpower, and divine attunement.
 
-- **Clerics** apply WIS bonus to [Search/Listen](../adventuring/skills.md#search-listen).
+- **Clerics** apply WIS modifier to [Search/Listen](../adventuring/skills.md#search-listen).
 
 ### Dexterity (DEX)
 Agility, reflexes, and hand-eye coordination.
 
 - **Ranged attack** modifier applies to all missile weapons.
 - **Armor Class** modifier adjusts AC.
-- **Thieves** apply DEX bonus to [Tumble](../adventuring/skills.md#tumble).
+- **Thieves** apply DEX modifier to [Tumble](../adventuring/skills.md#tumble).
 
 ### Constitution (CON)
 Toughness, endurance, and health.

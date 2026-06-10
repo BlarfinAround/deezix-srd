@@ -50,7 +50,7 @@ The caster deciphers arcane writing — spell scrolls, runes, and the spellbooks
 ### Shield
 **Range**: The caster | **Duration**: 2 turns
 
-An invisible field forms around the caster: **AC 2** against missile attacks and **AC 4** against all other attacks for the duration.
+An invisible field forms around the caster: **AC 17** against missile attacks and **AC 15** against all other attacks for the duration.
 
 ### Sleep
 **Range**: 240' | **Duration**: 4d4 turns
@@ -114,7 +114,7 @@ The caster senses the direction (not distance) to either the nearest object of a
 
 Creates a vivid visual illusion within a 20' cube. The illusion may be:
 
-- An attacking monster (AC 9, vanishes if struck in combat).
+- An attacking monster (AC 10, vanishes if struck in combat).
 - An apparent natural disaster — avalanche, collapsing ceiling — affecting all within (**Spells saving throw** negates).
 - A static scene that dissolves the moment it is touched.
 
@@ -240,6 +240,11 @@ Transforms one creature into another form (**Spells saving throw** negates). The
 
 The caster takes the shape of any creature of roughly their own mass, gaining its movement and natural attacks but not its special abilities, spellcasting, or Hit Dice. The caster keeps their own mind and Hit Points.
 
+### Remove Curse
+**Range**: The caster or a creature touched | **Duration**: Instant
+
+Lifts one curse from a creature, or frees them from a cursed item. *Reversed*: *Curse* — target makes a **Spells saving throw** or suffers a penalty the caster defines, up to **−2 to saves**, **−4 to attack rolls**, or a **50% reduction** to one ability score.
+
 ### Wall of Fire
 **Range**: 60' | **Duration**: Concentration
 
@@ -254,11 +259,6 @@ Forms a wall of ice 60' long and 20' high, or a hemisphere 30' across. It blocks
 **Range**: 240' | **Duration**: 6 turns
 
 Conjures an invisible sensor the caster sees through. It drifts up to **120' per turn**, ranging out to 240' from the caster.
-
-### Remove Curse
-**Range**: The caster or a creature touched | **Duration**: Instant
-
-Lifts one curse from a creature, or frees them from a cursed item. *Reversed*: *Curse* — target makes a **Spells saving throw** or suffers a penalty the caster defines, up to **−2 to saves**, **−4 to attack rolls**, or a **50% reduction** to one ability score.
 
 ## 5th-Level Arcane Spells
 

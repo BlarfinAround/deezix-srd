@@ -86,7 +86,7 @@ A 1st-level Thief begins with all four class skills at a 1-in-6 chance and 2 ski
 ### Backstab
 
 ::: {.callout-important title="Backstab"}
-A melee attack against a target who is unaware of the Thief (surprised, or attacked after a successful Stealth roll) is made at a **+4 attack bonus** and deals **bonus weapon dice** of damage, scaling with level.
+A **one-handed melee** attack against a target who is unaware of the Thief (surprised, or attacked after a successful Stealth roll) is made at a **+4 attack bonus** and deals **bonus weapon dice** of damage, scaling with level.
 
 | Thief Level | Bonus Damage |
 |-------|-------------|
