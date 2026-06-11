@@ -169,19 +169,23 @@ If a class lands clearly above the Magic-User in total package (e.g., full magic
 ## Example
 
 ::: {.callout-note title="Example: The Bard"}
-**Concept**: An adventuring storyteller with minor magical ability.
+**Concept**: An adventuring storyteller — keeper of songs, histories, and dangerous knowledge.
 
 **Dimensions**
 
 - **Hit Die**: d6
-- **Armor Access**: Light
+- **Armor Access**: Medium
 - **Shield Use**: No
 - **Combat Progression**: Semi-Martial
 - **Weapon Access**: One-handed weapons only
-- **Skill Profile**: Advanced (class skill: **Bardic Lore** — identify magical items, recall a magical creature's properties, notable people and places.)
+- **Skill Profile**: Specialist, with four class skills:
+  - **Lore**: Recall legends, notable people and places, a monster's properties, or the history of a famous item. Does not identify magic items.
+  - **Magic Device**: Activate an arcane scroll or wand the Bard does not understand — no *Read Magic* required. The insight does not persist: nothing is learned about the item, and each later use requires a new roll. On a failure, that item is beyond the Bard until they gain a level. On a **6**, the spell or charge is expended and may misfire (referee's discretion). A scroll already deciphered removes the misfire risk but not the roll.
+  - **Parley**: Once per encounter, before any violence, shift a reaction result one step toward friendly. The creatures must be able to hear the Bard and share some channel of meaning. Cannot be used once combat has begun.
+  - **Mimicry**: Imitate voices, animal calls, and sounds convincingly enough to deceive a listener.
 - **Key Ability**: INT
-- **Spellcasting**: Innate, at level 5 unlocks a fixed repertoire of *Charm Person*, *Ventriloquism*, and *Sleep* and 3 MP
-- **Signature Ability**: *Silver Tongue* — when the Bard leads an interaction with a creature whose disposition is uncertain, add +1 to the reaction roll.
+- **Spellcasting**: None
+- **Signature Ability**: *Counter-charm* — while the Bard performs (taking their action each round), allies within earshot gain **+1 to saves** against charm, fear, and song effects; an ally already under such an effect immediately rolls a new save when the performance begins.
 - **Saves**: Strong Paralysis, Spells; Weak Death
 
 **XP**: L2 1,400 / L3 2,800
