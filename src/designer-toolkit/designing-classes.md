@@ -184,7 +184,7 @@ If a class lands clearly above the Magic-User in total package (e.g., full magic
   - **Mimicry**: Imitate voices, animal calls, and sounds convincingly enough to deceive an unassuming listener.
 - **Key Ability**: INT
 - **Spellcasting**: None
-- **Signature Ability**: *Counter-charm* — while the Bard performs (taking their action each round), allies within earshot gain **+1 to saves** against charm, fear, and song effects; an ally already under such an effect immediately rolls a new save when the performance begins.
+- **Signature Ability**: *Song of Rest* — allies who complete a full rest in the Bard's company add **+1** to the hit points recovered from natural healing, and retainers among them gain **+1 to Loyalty rolls** for the following day.
 - **Saves**: Strong Paralysis, Spells; Weak Death
 
 **XP**: L2 1,400 / L3 2,800
