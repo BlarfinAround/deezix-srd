@@ -174,15 +174,14 @@ If a class lands clearly above the Magic-User in total package (e.g., full magic
 **Dimensions**
 
 - **Hit Die**: d6
-- **Armor Access**: Medium
-- **Shield Use**: No
+- **Armor Access**: leather or chain, no shields
 - **Combat Progression**: Semi-Martial
-- **Weapon Access**: One-handed weapons only
+- **Weapon Access**: One-handed melee weapons and slings
 - **Skill Profile**: Specialist, with four class skills:
-  - **Lore**: Recall legends, notable people and places, a monster's properties, or the history of a famous item. Does not identify magic items.
+  - **Lore**: Recall legends, notable people and places, the history of a famous item, or the nature of common creatures — beasts, humanoids, giants, and other monsters of the natural world. Does not cover magical beings (undead, constructs, elementals, and the like), nor the properties or activation methods of magic items.
   - **Magic Device**: Activate an arcane scroll or wand that has been identified and explained to the Bard by a friendly Magic-User or a paid sage. On a success, the spell or charge takes effect. On a failure, nothing happens and nothing is expended.
   - **Parley**: Once per encounter, before any violence, shift a reaction result one step toward friendly. The creatures must be able to hear the Bard and share some channel of meaning. Cannot be used once combat has begun.
-  - **Mimicry**: Imitate voices, animal calls, and sounds convincingly enough to deceive a listener.
+  - **Mimicry**: Imitate voices, animal calls, and sounds convincingly enough to deceive an unassuming listener.
 - **Key Ability**: INT
 - **Spellcasting**: None
 - **Signature Ability**: *Counter-charm* — while the Bard performs (taking their action each round), allies within earshot gain **+1 to saves** against charm, fear, and song effects; an ally already under such an effect immediately rolls a new save when the performance begins.
