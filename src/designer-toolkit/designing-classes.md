@@ -180,7 +180,7 @@ If a class lands clearly above the Magic-User in total package (e.g., full magic
 - **Weapon Access**: One-handed weapons only
 - **Skill Profile**: Specialist, with four class skills:
   - **Lore**: Recall legends, notable people and places, a monster's properties, or the history of a famous item. Does not identify magic items.
-  - **Magic Device**: Activate an arcane scroll or wand the Bard does not understand — no *Read Magic* required. The insight does not persist: nothing is learned about the item, and each later use requires a new roll. On a failure, that item is beyond the Bard until they gain a level. On a **6**, the spell or charge is expended and may misfire (referee's discretion). A scroll already deciphered removes the misfire risk but not the roll.
+  - **Magic Device**: Activate an arcane scroll or wand that has been identified and explained to the Bard by a friendly Magic-User or a paid sage. On a success, the spell or charge takes effect. On a failure, nothing happens and nothing is expended.
   - **Parley**: Once per encounter, before any violence, shift a reaction result one step toward friendly. The creatures must be able to hear the Bard and share some channel of meaning. Cannot be used once combat has begun.
   - **Mimicry**: Imitate voices, animal calls, and sounds convincingly enough to deceive a listener.
 - **Key Ability**: INT
