@@ -22,4 +22,4 @@ Each spell entry specifies the relevant save category (Wands / Paralysis / Breat
 
 ## Scroll Use
 
-A scroll holds one or more spells; each may be cast once. The reader does not expend a spell slot; a cast spell is consumed from the scroll, and a scroll with no remaining spells is destroyed. Scroll spells use the **lowest possible caster level** for that spell. [Arcane](arcane-magic.md#scroll-use) and [divine](divine-magic.md#scroll-use) scrolls each have additional requirements.
+A scroll holds one or more spells; each may be cast once. **Arcane scrolls** may be cast only by arcane spell casters and **divine scrolls** only by divine spell casters; **protection scrolls** are written in plain language and may be invoked by any character who can read. The reader does not expend a spell slot; a cast spell is consumed from the scroll, and a scroll with no remaining spells is destroyed. Scroll spells use the **lowest possible caster level** for that spell. [Arcane](arcane-magic.md#scroll-use) and [divine](divine-magic.md#scroll-use) scrolls each have additional requirements.

@@ -122,7 +122,7 @@ Roll d% for type, then d10 for the specific item within that category.
 
 ### Potions
 
-All effects last 1d6+6 turns unless noted otherwise.
+Any character may drink a potion, and a small sip is enough to identify one. All effects last 1d6+6 turns unless noted otherwise; the referee tracks the duration secretly.
 
 | d10 | Potion | Effect |
 |---|---|---|
@@ -154,7 +154,7 @@ All effects last 1d6+6 turns unless noted otherwise.
 
 ### Rods, Staves, and Wands
 
-Wands and rods found with 2d10 charges; staves with 3d10 (Staff of Healing has unlimited uses). Depleted items become mundane; recharging is impossible.
+**Wands** are usable only by arcane spell casters; **staves** only by spell casters (arcane- or divine-only where noted); **rods** by any class. Wands and rods are found with 2d10 charges; staves with 3d10 (Staff of Healing has unlimited uses). Depleted items become mundane; recharging is impossible.
 
 | d10 | Item | Effect per charge |
 |---|---|---|
@@ -220,7 +220,7 @@ This category covers ranged weapons, ammunition, and specialist melee weapons.
 
 ## Cursed Items
 
-Cursed items are indistinguishable from normal magic items until used. They impose penalties and usually require *Remove Curse* to discard.
+Cursed items are indistinguishable from normal magic items until used. Identification — whether by **Arcane Lore** or a sage — reveals only the item's apparent properties, never the curse; *Detect Evil* reveals the malign enchantment. Cursed items impose penalties and usually require *Remove Curse* to discard.
 
 **Examples:**
 
@@ -234,7 +234,7 @@ The properties of magic items are not automatically identified. Common methods:
 
 - *Detect Magic* confirms an item is magical but not its function.
 - **Arcane Lore** (Magic-User skill) attempts to identify an item's properties with a chance of success.
-- A **sage** in town can identify an item for 100–500 gp.
+- A **sage** in town can identify an item for 100–500 gp; the work takes one week.
 - **Trial and error**: use it and observe.
 
 Magic items should not be available for sale in shops.
