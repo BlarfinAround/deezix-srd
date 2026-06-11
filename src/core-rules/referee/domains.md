@@ -8,28 +8,20 @@ A character who clears a region of monsters and builds a stronghold attracts fol
 
 ### Construction Costs
 
-Typical structure costs; a keep requires **one engineer per 100,000 gp** of construction cost.
+A stronghold is assembled from the structures below; the player decides what to build and the costs add up. The referee prices anything not listed.
 
-| Class      | Stronghold          | Cost      | Build Time        |
-| ---------- | ------------------- | --------- | ----------------- |
-| Fighter    | Keep                | 75,000 gp | ~5 months         |
-| Cleric     | Temple or shrine    | Referee sets (halved if in divine favour) | 1 day per 500 gp |
-| Magic-User | Large tower         | 30,000 gp | ~2 months         |
-| Thief      | Guild hall/hideout  | Referee sets to setting | — |
+| Structure              | Cost      |
+| ---------------------- | --------- |
+| Keep                   | 75,000 gp |
+| Tower (large)          | 30,000 gp |
+| Tower (small)          | 15,000 gp |
+| Gatehouse              | 6,500 gp  |
+| Castle wall (per 100') | 5,000 gp  |
+| Stone building         | 3,000 gp  |
+| Wood building          | 1,500 gp  |
+| Hidden passage         | 500 gp    |
 
 Build time is **1 in-game day per 500 gp** of total cost.
-
-### Common Structure Costs
-
-| Structure             | Cost      |
-| --------------------- | --------- |
-| Keep                  | 75,000 gp |
-| Tower (large)         | 30,000 gp |
-| Tower (small)         | 15,000 gp |
-| Gatehouse             | 6,500 gp  |
-| Castle wall (per 100')| 5,000 gp  |
-| Stone building        | 3,000 gp  |
-| Wood building         | 1,500 gp  |
 
 ## Followers
 
