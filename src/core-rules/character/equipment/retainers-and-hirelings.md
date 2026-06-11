@@ -29,13 +29,13 @@ A character's CHA determines the maximum retainers they can employ and the base 
 
 | CHA   | Max Retainers | Base Loyalty |
 | ----- | ------------- | ------------ |
-| 3     | 1             | 5            |
-| 4–5   | 2             | 7            |
-| 6–8   | 3             | 8            |
-| 9–12  | 4             | 8            |
-| 13–15 | 5             | 9            |
-| 16–17 | 6             | 11           |
-| 18    | 7             | 11           |
+| 3     | 1             | 4            |
+| 4–5   | 2             | 5            |
+| 6–8   | 3             | 6            |
+| 9–12  | 4             | 7            |
+| 13–15 | 5             | 8            |
+| 16–17 | 6             | 9            |
+| 18    | 7             | 10           |
 
 ### Retainer Statistics
 
